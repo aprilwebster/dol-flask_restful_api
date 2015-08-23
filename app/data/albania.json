@@ -1,0 +1,1550 @@
+{
+
+    "Name": "Albania",
+    "Region": "Europe & Eurasia",
+    "ISO2": "AL",
+    "ISO3": "ALB",
+    "Advancement_Level": "Moderate Advancement",
+    "Description": "In 2014, Albania made a moderate advancement in efforts to eliminate the worst forms of child labor. The Government participated in and supported the publication of the first national assessment of street children in Albania, providing valuable data on the demographics and work activities of street children. The National Council for the Protection of Children’s Rights also held its first meeting after having remained inactive since its launch in 2011. The Government also trained labor inspectors, police officers, prosecutors, and judges on human trafficking issues. However, children in Albania are engaged in child labor, including in agriculture, and in the worst forms of child labor, including in forced begging. The Government does not have sufficient resources to enforce laws on child labor, including its worst forms. In addition, programs to combat child labor are insufficient to adequately address the extent of the problem.",
+    "Goods": [ ],
+    "Country_Statistics": 
+
+[
+
+{
+
+    "Children_Work_Statistics": 
+
+[
+
+        {
+            "Age_Range": "5-14",
+            "Total_Percentage_of_Working_Children": "4.56862047172",
+            "Total_Working_Population": "23665.0",
+            "Agriculture": "87.4708222625",
+            "Services": "9.64455242893",
+            "Industry": "2.88462530855"
+        }
+    ]
+
+},
+{
+
+    "Education_Statistics_Attendance_Statistics": 
+
+[
+
+        {
+            "Year": "2010.0",
+            "Age_Range": "5-14",
+            "Percentage": "92.5098415007"
+        }
+    ]
+
+},
+{
+
+    "Children_Working_and_Studying_7-14_yrs_old": 
+
+[
+
+        {
+            "Year": "2010.0",
+            "Age_Range": "7-14",
+            "Total": "5.24318430679"
+        }
+    ]
+
+},
+{
+
+    "UNESCO_Primary_Completion_Rate": 
+
+[
+
+            {
+                "Year": "",
+                "Rate": ""
+            }
+        ]
+    }
+
+],
+"Master_Data": 
+[
+
+{
+
+    "C_138_Ratified": "Yes"
+
+},
+{
+
+    "C_182_Ratified": "Yes"
+
+},
+{
+
+    "Convention_on_the_Rights_of_the_Child_Ratified": "Yes"
+
+},
+{
+
+    "CRC_Commercial_Sexual_Exploitation_of_Children_Ratified": "Yes"
+
+},
+{
+
+    "CRC_Armed_Conflict_Ratified": "Yes"
+
+},
+{
+
+    "Palermo_Ratified": "Yes"
+
+},
+{
+
+    "Minimum_Age_for_Work_Estabslished": "Yes"
+
+},
+{
+
+    "Minimum_Age_for_Work": "16.0"
+
+},
+{
+
+    "Minimum_Age_for_Hazardous_Work_Estabslished": "Yes"
+
+},
+{
+
+    "Minimum_Age_for_Hazardous_Work": "18.0"
+
+},
+{
+
+    "Compulsory_Education_Age_Established": "Yes"
+
+},
+{
+
+    "Minimum_Age_for_Compulsory_Education": "16.0"
+
+},
+
+    {
+        "Free_Public_Education_Estabslished": "Yes"
+    }
+
+],
+"Sections": 
+[
+
+{
+
+    "content": 
+
+[
+
+{
+
+    "header": false,
+    "paragraph": "Albania is a source country for children trafficked abroad to neighboring countries such as Kosovo, Macedonia, and Montenegro, as well as to EU countries for commercial sexual exploitation and forced begging.(2, 18) In addition, research found an increase in internal trafficking and forced begging during the reporting period.(2, 18) Street children were at the greatest risk of becoming victims of human trafficking. Ethnic minority children from the Roma and Egyptian communities make up the majority of child trafficking victims.(2-5, 7) Unaccompanied minors from northern Albania moving to Belgium, England, France, and Germany during the reporting period were also vulnerable to trafficking and increased in numbers during the reporting period.(18) Approximately 50 percent of trafficking victims in Albania in 2014 were minors.(18)"
+
+},
+{
+
+    "header": false,
+    "paragraph": "The majority of children engaged in child labor in Albania work in the agriculture sector. However, there is little information available about the specific work activities in which these children are engaged.(1-5)"
+
+},
+
+    {
+        "header": false,
+        "paragraph": "Although the Constitution of the Republic of Albania and the Law on Pre-University Education guarantee free public education, children without birth certificates are unable to attend school.(3) The Government registered 141 previously unregistered children in 2014, but residency requirements continue to make it difficult for Roma and Egyptian families in particular to acquire birth registration for their children.(3, 12, 18) Lack of registration often prevents children in this community from accessing education and other social services.(3, 12) Children who do not have access to education and other social services are at an increased risk of exploitation in child labor. In addition, the costs of school supplies and classroom resources are prohibitive for low-income families.(2)"
+    }
+
+],
+"tables": 
+[
+
+{
+
+    "footnotes": 
+
+[
+
+{
+
+    "text": "Evidence of this activity is limited and/or the extent of the problem is unknown.",
+    "symbol": "*"
+
+},
+{
+
+    "text": "Determined by national law or regulation as hazardous and, as such, relevant to Article 3(d) of ILO C. 182.",
+    "symbol": "†"
+
+},
+
+    {
+        "text": "Child labor understood as the worst forms of child labor per se under Article 3(a)-(c) of ILO C. 182.",
+        "symbol": "‡"
+    }
+
+],
+"summary": "Based on a review of available information, Table 2 provides an overview of children’s work by sector and activity.",
+"sectors": 
+[
+
+{
+
+    "sector": "Agriculture",
+    "activities": 
+
+[
+
+{
+
+    "sources": "1-6",
+    "name": "Farming,* activities unknown"
+
+},
+
+        {
+            "sources": "2, 3",
+            "name": "Shepherding*"
+        }
+    ]
+
+},
+{
+
+    "sector": "Industry",
+    "activities": 
+
+[
+
+{
+
+    "sources": "1, 2, 4, 6, 10, 11",
+    "name": "Mining,*† including mining chrome*"
+
+},
+{
+
+    "sources": "1, 2, 4-6",
+    "name": "Construction, activities unknown"
+
+},
+{
+
+    "sources": "2, 4, 6",
+    "name": "Working in the textile,* garment,* and footwear* sectors"
+
+},
+
+        {
+            "sources": "6, 12",
+            "name": "Processing fish*"
+        }
+    ]
+
+},
+{
+
+    "sector": "Services",
+    "activities": 
+
+[
+
+{
+
+    "sources": "2-5, 13, 14",
+    "name": "Begging"
+
+},
+{
+
+    "sources": "2, 5, 15",
+    "name": "Street work, including vending, washing vehicles, busking, and shining shoes"
+
+},
+{
+
+    "sources": "5, 16",
+    "name": "Collecting recyclable materials on the street and in landfills"
+
+},
+{
+
+    "sources": "1, 4, 6",
+    "name": "Working in wholesale and retail trade"
+
+},
+
+        {
+            "sources": "1, 4, 6",
+            "name": "Working in hotels and restaurants"
+        }
+    ]
+
+},
+{
+
+    "sector": "Categorical Worst Forms of Child Labor‡",
+    "activities": 
+
+[
+
+{
+
+    "sources": "2, 4, 5, 17",
+    "name": "Used in illicit activities, including drug trafficking, drug couriering, and harvesting and processing cannabis*"
+
+},
+{
+
+    "sources": "2-5, 7",
+    "name": "Commercial sexual exploitation sometimes as a result of human trafficking"
+
+},
+
+                        {
+                            "sources": "3-7",
+                            "name": "Forced begging sometimes as a result of human trafficking"
+                        }
+                    ]
+                }
+            ],
+            "title": "Overview of Children’s Work by Sector and Activity"
+        }
+    ],
+    "number": "I",
+    "title": "Prevalence and Sectoral Distribution of Child Labor"
+
+},
+{
+
+    "content": 
+
+[
+
+{
+
+    "header": false,
+    "paragraph": "Although the minimum age for work is 16, children between the ages of 14 and 16 may be employed during school holidays, provided that the employment is not harmful to their health and development.(19) However, there is no definition of what constitutes permissible school holiday work or the number of hours or conditions that would render employment acceptable.(29)"
+
+},
+
+    {
+        "header": false,
+        "paragraph": "In October 2014, the Government amended the Law on Compulsory Health Care Insurance in the Republic of Albania to provide victims of human trafficking, including child victims, with free health care. In November, the Council of Ministers passed an additional decision providing trafficking victims with free mental health care.(18)"
+    }
+
+],
+"tables": 
+[
+
+{
+
+    "footnotes": [ ],
+    "summary": "Albania has ratified all key international conventions concerning child labor (Table 3).",
+    "conventions": 
+
+[
+
+{
+
+    "ratified": true,
+    "title": "ILO C. 138, Minimum Age"
+
+},
+{
+
+    "ratified": true,
+    "title": "ILO C. 182, Worst Forms of Child Labor"
+
+},
+{
+
+    "ratified": true,
+    "title": "UN CRC"
+
+},
+{
+
+    "ratified": true,
+    "title": "UN CRC Optional Protocol on Armed Conflict"
+
+},
+{
+
+    "ratified": true,
+    "title": "UN CRC Optional Protocol on the Sale of Children, Child Prostitution and Child Pornography"
+
+},
+
+        {
+            "ratified": true,
+            "title": "Palermo Protocol on Trafficking in Persons"
+        }
+    ],
+    "title": "Ratification of International Conventions on Child Labor"
+
+},
+{
+
+    "footnotes": 
+
+[
+
+    {
+        "sources": "26",
+        "symbol": "*",
+        "text": "No conscription "
+    }
+
+],
+"summary": "The Government has established laws and regulations related to child labor, including its worst forms (Table 4).",
+"standards": 
+[
+
+{
+
+    "related_legislation": 
+
+    {
+        "sources": "19, 20",
+        "legislation": "Article 98 of the Code of Labor; Article 22 of the Law for the Protection of the Rights of the Child "
+    },
+    "age": "16",
+    "enacted": "Yes",
+    "title": "Minimum Age for Work"
+
+},
+{
+
+    "related_legislation": 
+
+    {
+        "sources": "19, 20",
+        "legislation": "Articles 98–101 of the Code of Labor; Article 22 of the Law for the Protection of the Rights of the Child "
+    },
+    "age": "18",
+    "enacted": "Yes",
+    "title": "Minimum Age for Hazardous Work"
+
+},
+{
+
+    "related_legislation": 
+
+    {
+        "sources": "19, 21-24",
+        "legislation": "Articles 99–101 of the Code of Labor; Decree of the Council of Ministers on Defining Hazardous and Hard Works; Decree of the Council of Ministers on the Protection of Minors at Work; Law on Occupational Safety and Health at Work "
+    },
+    "enacted": "Yes",
+    "title": "Prohibition of Hazardous Occupations or Activities for Children"
+
+},
+{
+
+    "related_legislation": 
+
+    {
+        "sources": "19",
+        "legislation": "Article 8 of the Code of Labor "
+    },
+    "enacted": "Yes",
+    "title": "Prohibition of Forced Labor"
+
+},
+{
+
+    "related_legislation": 
+
+    {
+        "sources": "25",
+        "legislation": "Articles 110/1 and 128/b of the Criminal Code "
+    },
+    "enacted": "Yes",
+    "title": "Prohibition of Child Trafficking"
+
+},
+{
+
+    "related_legislation": 
+
+    {
+        "sources": "20, 25",
+        "legislation": "Articles 114, 114/a, 115, 117, and 128/b of the Criminal Code; Article 24 of the Law for the Protection of the Rights of the Child "
+    },
+    "enacted": "Yes",
+    "title": "Prohibition of Commercial Sexual Exploitation of Children"
+
+},
+{
+
+    "related_legislation": 
+
+    {
+        "sources": "25",
+        "legislation": "Articles 129 and 124/b of the Criminal Code "
+    },
+    "enacted": "Yes",
+    "title": "Prohibition of Using Children in Illicit Activities"
+
+},
+{
+
+    "enacted": "N/A*",
+    "title": "Minimum Age for Compulsory Military Recruitment"
+
+},
+{
+
+    "related_legislation": 
+
+    {
+        "sources": "26",
+        "legislation": "Law on Military Service "
+    },
+    "age": "19",
+    "enacted": "Yes",
+    "title": "Minimum Age for Voluntary Military Service"
+
+},
+{
+
+    "related_legislation": 
+
+    {
+        "sources": "27",
+        "legislation": "Article 22 of the Law on Pre-University Education System "
+    },
+    "age": "16",
+    "enacted": "Yes",
+    "title": "Compulsory Education Age"
+
+},
+{
+
+    "related_legislation": 
+
+                    {
+                        "sources": "27, 28",
+                        "legislation": "Article 57 of the Constitution of the Republic of Albania; Article 5 of the Law on Pre-University Education System "
+                    },
+                    "enacted": "Yes",
+                    "title": "Free Public Education"
+                }
+            ],
+            "title": "Laws and Regulations Related to Child Labor"
+        }
+    ],
+    "number": "II",
+    "title": "Legal Framework for the Worst Forms of Child Labor"
+
+},
+{
+
+    "content": 
+
+[
+
+{
+
+    "header": false,
+    "paragraph": "Law enforcement agencies in Albania took actions to combat child labor, including its worst forms."
+
+},
+{
+
+    "header": true,
+    "paragraph": "Labor Law Enforcement"
+
+},
+{
+
+    "header": false,
+    "paragraph": "In 2014, the State Labor Inspectorate (SLI) employed 98 inspectors.(6) In July 2014, 20 labor inspectors received training on proactive identification and referral of forced labor and labor exploitation cases, with a focus on children.(18) However, a source reported that more training on child labor laws is needed. In addition, a lack of adequate office space, transportation, and training compromises the quality of inspections.(6)"
+
+},
+{
+
+    "header": false,
+    "paragraph": "During the reporting period, the SLI conducted 42 inspections of businesses in which children were employed. Inspectors performed both proactive and complaint-based inspections, including unannounced inspections.(6) The SLI identified 28 cases of child labor during these inspections; however, no penalties or citations for child labor law violations were issued.(6, 12) A source reported that the number of inspections was inadequate, given the scope of the child labor problem.(6) In addition, although the National Referral Mechanism (NRM) exists for victims of child trafficking, research found no evidence of a referral mechanism between the SLI or criminal investigators and social service providers for children victims of exploitative labor conditions unconnected with human trafficking."
+
+},
+{
+
+    "header": true,
+    "paragraph": "Criminal Law Enforcement"
+
+},
+{
+
+    "header": false,
+    "paragraph": "Nationwide, there are approximately 15 police officers dedicated to child rights, which is inadequate to address the scope of the problem. The Ombudsman of the Government of Albania has recommended that each of the approximately 44 police commissariats have several child rights investigators.(6) During the reporting period, prosecutors, judges, and police officers attended multiple trainings on human trafficking issues, including one on the legal standard of child treatment in the justice system and the protocol for investigation and trial of criminal offences involving children, and another on standards for the protection of victims and witnesses in child sexual abuse cases.(18, 30)"
+
+},
+{
+
+    "header": false,
+    "paragraph": "In 2014, the Government reported prosecuting four cases of child labor, resulting in two convictions.(6) One perpetrator was sentenced to 2 years and a second was sentenced to 1 year and 4 months of imprisonment.(6) In addition, as part of a new program to assist street children, 5 individuals were arrested and charged with exploitation of children for begging, and 2 parents were prosecuted for child exploitation.(18) The Government also referred 9 cases of child trafficking to prosecution. The Government tried 3 cases involving child trafficking during the reporting period, resulting in 3 convictions and prison sentences of 10 years or more.(18) Given the scope of the problem, the number of investigations and prosecutions for child trafficking are not adequate. In addition, NGOs report that laws prohibiting the production and possession of child pornography are rarely enforced.(3)"
+
+},
+{
+
+    "header": false,
+    "paragraph": "In 2014, the police also launched a large-scale operation in the Albanian town of Lazarat, a hub for marijuana production in southern Albania. This operation is believed to have significantly decreased the number of children working in marijuana production; however, long-term results remain to be monitored.(18)"
+
+},
+
+    {
+        "header": false,
+        "paragraph": "In 2014, the Government completed the establishment of Child Rights Units (CRUs) in all 12 regions of Albania and increased the number of Child Protection Units (CPUs) to 196, covering half of the territory of Albania.(6) CPUs managed approximately 1,159 cases of at-risk children from January to June 2014, including identifying 490 new cases for the year.(12) However, CPUs and CRUs often receive inadequate funding for child protection, and the Ombudsman has noted that the effectiveness of these units is often low.(4, 6, 30, 35)"
+    }
+
+],
+"tables": 
+[
+
+{
+
+    "items": 
+
+[
+
+{
+
+    "name": "State Labor Inspectorate (SLI) under the Ministry of Social Welfare and Youth",
+    "descriptions": 
+
+[
+
+        {
+            "text": "Enforce labor laws, including laws related to child labor and hazardous child labor. File and respond to child labor complaints.",
+            "sources": "6"
+        }
+    ]
+
+},
+{
+
+    "name": "Social Services Agency under the Ministry of Social Welfare and Youth",
+    "descriptions": 
+
+[
+
+        {
+            "text": "File and respond to child labor complaints.",
+            "sources": "6"
+        }
+    ]
+
+},
+{
+
+    "name": "General Directorate of Police and Regional Directorate of Police under the Ministry of Interior",
+    "descriptions": 
+
+[
+
+        {
+            "text": "Enforce all laws, including child labor and child trafficking laws.",
+            "sources": "4"
+        }
+    ]
+
+},
+{
+
+    "name": "Serious Crimes Prosecution Office",
+    "descriptions": 
+
+[
+
+        {
+            "text": "Investigate and prosecute cases involving human trafficking, including child trafficking.",
+            "sources": "4, 30"
+        }
+    ]
+
+},
+{
+
+    "name": "Child Rights Units (CRUs)",
+    "descriptions": 
+
+[
+
+        {
+            "text": "Monitor the situation of high-risk children and families at the regional level, coordinate protection and referral activities at the local level, and identify and manage individual cases.",
+            "sources": "4, 31, 32"
+        }
+    ]
+
+},
+{
+
+    "name": "Child Protection Units (CPUs)",
+    "descriptions": 
+
+[
+
+        {
+            "text": "Identify children in danger at the municipal level and subsequently refer them to a safe environment, as defined by the State Social Services.",
+            "sources": "4, 33, 34"
+        }
+    ]
+
+},
+{
+
+    "name": "National Referral Mechanism (NRM)",
+    "descriptions": 
+
+[
+
+{
+
+    "text": "Coordinate the identification, protection, referral, and rehabilitation of trafficking victims between government and civil society organizations. Chaired by the Office of the National Coordinator for the Fight Against Trafficking in Human Beings (ONAC).",
+    "sources": "18"
+
+},
+
+                        {
+                            "text": "The NRM met regularly during the reporting period.",
+                            "sources": "18"
+                        }
+                    ]
+                }
+            ],
+            "footnotes": [ ],
+            "summary": "The Government has established institutional mechanisms for the enforcement of laws and regulations on child labor, including its worst forms (Table 5).",
+            "title": "Agencies Responsible for Child Labor Law Enforcement"
+        }
+    ],
+    "number": "III",
+    "title": "Enforcement of Laws on the Worst Forms of Child Labor"
+
+},
+{
+
+    "content": [ ],
+    "tables": 
+
+[
+
+{
+
+    "items": 
+
+[
+
+{
+
+    "name": "National Council for the Protection of the Rights of Children (NCPRC)",
+    "descriptions": 
+
+[
+
+{
+
+    "text": "Coordinate the protection of children’s rights, including children involved in child labor. Members include the Ministers of Welfare, Education, Justice, and Interior, as well as representatives from the President’s Office and NGOs.",
+    "sources": "3"
+
+},
+
+        {
+            "text": "Due to a change of government after the June 2013 elections, in October 2014 the NPRC held its first meeting with new members, having remained inactive since it was first launched in November 2011.",
+            "sources": "6"
+        }
+    ]
+
+},
+{
+
+    "name": "Office of the National Coordinator for the Fight Against Trafficking in Human Beings (ONAC)",
+    "descriptions": 
+
+[
+
+{
+
+    "text": "Coordinate all anti‑trafficking efforts in Albania. Serve as chair of the State Committee Against Trafficking in Persons, a deputy minister-level working group that sets the Government’s policy on combating human trafficking. Oversee 12 regional anti-trafficking committees that carry out local action plans in cooperation with civil society partners.",
+    "sources": "30"
+
+},
+
+                        {
+                            "text": "In 2014, ONAC held regular meetings with the regional committees, facilitating their adoption of regional action plans. . Also in 2014, ONAC received a separate state budget for the first time, allowing the office to independently support its own operations.",
+                            "sources": "18"
+                        }
+                    ]
+                }
+            ],
+            "footnotes": [ ],
+            "summary": "The Government has established mechanisms to coordinate its efforts to address child labor, including its worst forms (Table 6).",
+            "title": "Mechanisms to Coordinate Government Efforts on Child Labor"
+        }
+    ],
+    "number": "IV",
+    "title": "Coordination of Government Efforts on the Worst Forms of Child Labor"
+
+},
+{
+
+    "content": [ ],
+    "tables": 
+
+[
+
+{
+
+    "items": 
+
+[
+
+{
+
+    "name": "Action Plan for Children (2012–2015)",
+    "descriptions": 
+
+[
+
+        {
+            "text": "Aims to promote comprehensive, harmonized, and coordinated policies of social protection and social inclusion of children; also emphasizes the strengthening of institutional structures set up to monitor and report on the implementation of the rights of children at the national and regional levels. Includes a strategic objective on protecting children from the worst forms of child labor, through strengthening prevention measures and increasing the SLI’s role in preventing child labor.",
+            "sources": "12"
+        }
+    ]
+
+},
+{
+
+    "name": "Albanian Roadmap for Achieving the Elimination of the Worst Forms of Child Labor by 2016",
+    "descriptions": 
+
+[
+
+{
+
+    "text": "Outlines a plan to eliminate the worst forms of child labor in Albania by 2016.",
+    "sources": "36"
+
+},
+
+        {
+            "text": "Includes the adoption and implementation of effective legislation and law enforcement to address the worst forms of child labor; the provision of free, quality education for all children; the provision of social protection to families and children in need; and the implementation of labor market policies that promote youth employment and the regulation and formalization of the informal economy.",
+            "sources": "36"
+        }
+    ]
+
+},
+{
+
+    "name": "Strategy for Combating Trafficking in Persons and Action Plan (2014–2017)†",
+    "descriptions": 
+
+[
+
+        {
+            "text": "Outlines plan to improve law enforcement, build the capacity of social services programs that provide services to victims, and improve interagency coordination. Includes the goals of increasing successful prosecutions for child trafficking and increasing the sensitivity of the investigation and prosecution processes to the needs of child victims.",
+            "sources": "37"
+        }
+    ]
+
+},
+{
+
+    "name": "National Action Plan for the Decade of Roma Inclusion, (2005–2015)",
+    "descriptions": 
+
+[
+
+{
+
+    "text": "Strives to improve access to and the quality of social services for Roma communities.",
+    "sources": "38"
+
+},
+
+            {
+                "text": "Objectives include monitoring cases of child labor exploitation in the Roma community, establishing shelters and day schools for street children, and improving birth registration and access to education for Roma children.",
+                "sources": "39"
+            }
+        ]
+    }
+
+],
+"footnotes": 
+[
+
+                {
+                    "text": "Policy was approved during the reporting period.",
+                    "symbol": "†"
+                }
+            ],
+            "summary": "The Government of Albania has established policies related to child labor, including its worst forms (Table 7).",
+            "title": "Policies Related to Child Labor"
+        }
+    ],
+    "number": "V",
+    "title": "Government Policies on the Worst Forms of Child Labor"
+
+},
+{
+
+    "content": 
+
+[
+
+{
+
+    "header": false,
+    "paragraph": "Civil society organizations, rather than government organizations, generally provide social services for children engaged in the worst forms of child labor. These civil society organizations often lack well-trained staff and coordination with other protection services, especially at the local level.(4, 35, 45, 46) A source reported that the National Reception Center for Victims of Trafficking lacked proper resources for victim reintegration services such as education, psychological support, and vocational training. In addition, the Government did not provide sufficient financial assistance to the NGO-run shelters in Albania.(18) The only residential shelter specialized in aiding victims of child trafficking closed most of its services for several months due to lack of funding.(18)"
+
+},
+
+    {
+        "header": false,
+        "paragraph": "Although Albania has implemented programs to assist street children and victims of child trafficking, research found no evidence that it has carried out programs to assist children in agriculture, construction, and mining, or children used in illicit activities."
+    }
+
+],
+"tables": 
+[
+
+{
+
+    "items": 
+
+[
+
+{
+
+    "name": "UN Support to Social Inclusion (2012–2016)*",
+    "descriptions": 
+
+[
+
+        {
+            "text": "UN program that works with several government ministries to improve implementation of social inclusion by developing informed policies and strengthening institutions.",
+            "sources": "40"
+        }
+    ]
+
+},
+{
+
+    "name": "Help for Families and Children in Street Situations Action Plan†",
+    "descriptions": 
+
+[
+
+{
+
+    "text": "Program jointly implemented by the Ministry of Social Welfare and Youth and Ministry of Interior to provide social services directly to street children. Teams of social workers and police officers identify child beggars and work with parents to remove children from the street.",
+    "sources": "6"
+
+},
+{
+
+    "text": "Since the June 2014 launch of the pilot phase in Tirana, the program has identified 152 street children, removed 52 children from the street, and helped 27 families access social services.",
+    "sources": "6"
+
+},
+{
+
+    "text": "Forty-five children were enrolled in and began attending school, and 11 children received accommodations in social care institutions at the request of their parents or after removal from exploitative situations.",
+    "sources": "18"
+
+},
+{
+
+    "text": "The Government plans to expand the program from the capital into the regions.",
+    "sources": "12"
+
+},
+
+        {
+            "text": "The pilot phase in 2014 was donor funded.",
+            "sources": "6"
+        }
+    ]
+
+},
+{
+
+    "name": "National Anti-Trafficking Week†‡",
+    "descriptions": 
+
+[
+
+        {
+            "text": "ONAC-funded program to provide a week of events to raise awareness of human trafficking. Included awareness activities with elementary schools and community centers, as well as conferences, television appearances by the National Coordinator, and television, billboard, and digital advertisements.",
+            "sources": "18"
+        }
+    ]
+
+},
+{
+
+    "name": "Trafficking in Persons Helpline and Report and Save Mobile App†",
+    "descriptions": 
+
+[
+
+{
+
+    "text": "ONAC projects, supported by USAID, UNODC, World Vision, and the Vodafone Albania Foundation, to provide services for victims of crime and improve prevention of trafficking in persons. Includes a national hotline for trafficking in persons victims and the mobile application “Report and Save,” which allows citizens to report suspected trafficking cases, raises public awareness, and provides access to information on victim assistance.",
+    "sources": "18"
+
+},
+
+        {
+            "text": "In 2014, 765 calls were made to the national hotline, of which 39 were registered by the police as reported trafficking cases, and 590 messages were sent through the mobile app.",
+            "sources": "18"
+        }
+    ]
+
+},
+{
+
+    "name": "Albania-UN Program of Cooperation (2012–2016)",
+    "descriptions": 
+
+[
+
+{
+
+    "text": "UN program focuses on four thematic areas within the Government and civil society: governance and rule of law, economy and environment, regional and local development, and inclusive social policy.",
+    "sources": "41"
+
+},
+
+        {
+            "text": "Includes goals such as increased access to education for vulnerable children and increased protections for victims of child trafficking.",
+            "sources": "42"
+        }
+    ]
+
+},
+{
+
+    "name": "National Emergency Transition Center",
+    "descriptions": 
+
+[
+
+{
+
+    "text": "Government-run center established to provide vulnerable families with temporary housing, health, psychosocial and educational services, legal assistance, vocational education programs, and employment placement assistance. Currently houses 53 Roma families, including 112 children.",
+    "sources": "6"
+
+},
+{
+
+    "text": "Beneficiaries include children at risk of street begging. To receive benefits, families must keep their children enrolled in school.",
+    "sources": "4"
+
+},
+
+        {
+            "text": "In 2014, the Government did not provide funding for the center; however, a decision was issued during the reporting period institutionalizing the Center’s services and allocating a public budget for the Center for 2015.",
+            "sources": "6"
+        }
+    ]
+
+},
+{
+
+    "name": "National Reception Center for Victims of Trafficking‡",
+    "descriptions": 
+
+[
+
+        {
+            "text": "Government-funded, high-security national shelter under the supervision of the Directorate General of State Social Service. Provides shelter and access to social services for human trafficking victims identified in Albania.",
+            "sources": "43"
+        }
+    ]
+
+},
+{
+
+    "name": "Child Allowance Program (Ndihma Ekonomike)*‡",
+    "descriptions": 
+
+[
+
+{
+
+    "text": "$46 million government-funded cash transfer program that provides a child allowance for families already benefiting from economic aid through Albania’s Law on Social Assistance and Services.",
+    "sources": "6"
+
+},
+
+        {
+            "text": "Although an annual $35 bonus for families who send their children to school and follow the state’s vaccination program was established in 2014, child allowance payments to eligible families are still deemed too low to significantly reduce the number of children living in poverty, and therefore are unlikely to have an impact on reducing child labor.",
+            "sources": "6"
+        }
+    ]
+
+},
+{
+
+    "name": "Decent Work Country Program (2012–2015)",
+    "descriptions": 
+
+[
+
+            {
+                "text": "ILO technical assistance project detailing the policies, strategies, and results required to realize progress toward the goal of decent work for all. Outcomes include strengthening the effectiveness and quality of labor inspection systems, enhancing the capacity of policymakers to address informal and vulnerable employment of young people, and ensuring that labor laws better adhere to international labor standards, including those on the worst forms of child labor.",
+                "sources": "44"
+            }
+        ]
+    }
+
+],
+"footnotes": 
+[
+
+{
+
+    "text": "The impact of this program on child labor does not appear to have been studied.",
+    "symbol": "*"
+
+},
+{
+
+    "text": "Program was launched during the reporting period.",
+    "symbol": "†"
+
+},
+
+                {
+                    "text": "Program is funded by the Government of Albania.",
+                    "symbol": "‡"
+                }
+            ],
+            "summary": "In 2014, the Government of Albania funded and participated in programs that include the goal of eliminating or preventing child labor, including its worst forms. The Government has other programs that may have an impact on child labor, including its worst forms (Table 8).",
+            "title": "Social Programs to Address Child Labor"
+        }
+    ],
+    "number": "VI",
+    "title": "Social Programs to Address Child Labor"
+
+},
+{
+
+    "content": [ ],
+    "tables": 
+
+[
+
+{
+
+    "footnotes": [ ],
+    "summary": "Based on the reporting above, suggested actions are identified that would advance the elimination of child labor, including its worst forms, in Albania (Table 9).",
+    "areas": 
+
+[
+
+{
+
+    "actions": 
+
+[
+
+        {
+            "action": "Define permissible work, including hours and conditions thereof, for children between the ages of 14 and 16 years.",
+            "years": "2011 – 2014"
+        }
+    ],
+    "area": "Legal Framework"
+
+},
+{
+
+    "actions": 
+
+[
+
+{
+
+    "action": "Provide inspectors with adequate training and the tools needed to carry out their tasks effectively.",
+    "years": "2010 – 2014"
+
+},
+{
+
+    "action": "Increase the number of child labor inspections to fully address the scope of the child labor problem.",
+    "years": "2014"
+
+},
+{
+
+    "action": "Establish a referral mechanism between the SLI and providers of social services to ensure that all children found in situations of child labor receive access to needed services.",
+    "years": "2014"
+
+},
+{
+
+    "action": "Ensure there are an adequate number, nationwide, of police investigators for child rights and that an adequate number of investigations are carried out.",
+    "years": "2013 – 2014"
+
+},
+{
+
+    "action": "Fully enforce the provisions of the Criminal Code that prohibit the production and possession of child pornography.",
+    "years": "2014"
+
+},
+
+        {
+            "action": "Provide CRUs and CPUs with adequate funding to carry out their work effectively.",
+            "years": "2013 – 2014"
+        }
+    ],
+    "area": "Enforcement"
+
+},
+{
+
+    "actions": 
+
+[
+
+{
+
+    "action": "Conduct research on children working in agriculture and construction to inform policies and programs.",
+    "years": "2013 – 2014"
+
+},
+{
+
+    "action": "Increase resources, access to civil registration, and the number of social services available to children, including Roma and Egyptian children, engaged in or at risk of engaging in child labor.",
+    "years": "2011 – 2014"
+
+},
+{
+
+    "action": "Ensure that financial barriers to education, such as the prohibitive cost of school supplies and classroom resources, are removed for families in need.",
+    "years": "2013 – 2014"
+
+},
+{
+
+    "action": "Increase payments to families who are eligible for assistance under the Social Assistance and Services Law.",
+    "years": "2011 – 2014"
+
+},
+{
+
+    "action": "Assess the impact that existing programs may have on child labor.",
+    "years": "2013 – 2014"
+
+},
+
+                            {
+                                "action": "Institute programs to address child labor in agriculture, construction, and mining, and to assist children being used in illicit activities.",
+                                "years": "2014"
+                            }
+                        ],
+                        "area": "Social Programs"
+                    }
+                ],
+                "title": "Suggested Government Actions to Eliminate Child Labor, Including its Worst Forms"
+            }
+        ],
+        "number": "VII",
+        "title": "Suggested Government Actions to Eliminate the Worst Forms of Child Labor"
+    }
+
+],
+"Sources": 
+[
+
+{
+
+    "text": "ILO and Institute of Statistics (INSTAT) of the Republic of Albania. The Results of the 2010 National Child Labour Survey. Budapest; July 2012. http://www.ilo.org/ipec/Informationresources/all-publications/WCMS_202853/lang--en/index.htm.",
+    "number": "1"
+
+},
+{
+
+    "text": "International Trade Union Confederation. \"Internationally Recognized Core Labour Standards in Albania,\" in WTO General Council Review of the Trade Policies of Albania; April 28 and 30, 2010; Geneva; http://www.ituc-csi.org/IMG/pdf/Final_Albania_cls_report.pdf.",
+    "number": "2"
+
+},
+{
+
+    "text": "U.S. Department of State. \"Albania,\" in Country Reports on Human Rights Practices- 2013. Washington, DC; February 27, 2014; http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm#wrapper.",
+    "number": "3"
+
+},
+{
+
+    "text": "U.S. Embassy- Tirana. reporting, January 17, 2014.",
+    "number": "4"
+
+},
+{
+
+    "text": "UNICEF Save The Children and the Ministry of Social Welfare and Youth. National Study on children in street situation in Albania; April 2014. http://resourcecentre.savethechildren.se/sites/default/files/documents/final_research_report_english.pdf.",
+    "number": "5"
+
+},
+{
+
+    "text": "U.S. Embassy- Tirana. reporting, January 15, 2015.",
+    "number": "6"
+
+},
+{
+
+    "text": "U.S. Department of State. \"Albania,\" in Trafficking in Persons Report- 2014. Washington, DC; June 20, 2014; http://www.state.gov/g/tip/rls/tiprpt/2013.",
+    "number": "7"
+
+},
+{
+
+    "text": "UNESCO Institute for Statistics. Gross intake ratio to the last grade of primary. Total. [accessed January 16, 2015] http://www.uis.unesco.org/Pages/default.aspx?SPSLanguage=EN. Data provided is the gross intake ratio to the last grade of primary school. This measure is a proxy measure for primary completion. For more information, please see the \"Children's Work and Education Statistics: Sources and Definitions\" section of this report.",
+    "number": "8"
+
+},
+{
+
+    "text": "UCW. Analysis of Child Economic Activity and School Attendance Statistics from National Household or Child Labor Surveys. Original data from National Child Labour Survey (NCLS), 2010. Analysis received January 16, 2015. Reliable statistical data on the worst forms of child labor are especially difficult to collect given the often hidden or illegal nature of the worst forms. As a result, statistics on children’s work in general are reported in this chart, which may or may not include the worst forms of child labor. For more information on sources used, the definition of working children and other indicators used in this report, please see the “Children's Work and Education Statistics: Sources and Definitions” section of this report.",
+    "number": "9"
+
+},
+{
+
+    "text": "Axel Kronholm. In Photos: Murder, Misery and Children in Albania's Mining Industry, Vice News, [online] June 4, 2014 [cited January 9, 2015]; https://news.vice.com/article/in-photos-murder-misery-and-children-in-albanias-mining-industry.",
+    "number": "10"
+
+},
+{
+
+    "text": "Thane Burnett. Albanian child labour takes shine off chrome industry, Toronto Sun, [online] June 7, 2014 [cited January 9, 2015]; http://www.torontosun.com/2014/06/06/albanian-child-labour-takes-shine-off-chrome-industry.",
+    "number": "11"
+
+},
+{
+
+    "text": "Government of Albania. Written Communication. Submitted in response to U.S. Department of Labor Federal Register Notice (November 26, 2014) \"Request for Information on Efforts by Certain Countries to Eliminate the Worst Forms of Child Labor\". Tirana; January 13, 2015.",
+    "number": "12"
+
+},
+{
+
+    "text": "Prendi, B. \"Breaking the Chains in the Cycle of Poverty through Education.\" wvi.org [online ] January 28, 2012 [cited March 15, 2013]; http://beta.wvi.org/content/breaking-chains-cycle-poverty-through-education.",
+    "number": "13"
+
+},
+{
+
+    "text": "UN Human Rights Committee. Concluding Observations on the Second Periodic Report of Albania. Geneva; August 22, 2013.",
+    "number": "14"
+
+},
+{
+
+    "text": "ILO Committee of Experts. Individual Direct Request concerning Worst Forms of Child Labour Convention, 1999 (No. 182) Albania (ratification: 2001) Submitted: 2011; accessed March 15, 2013; http://www.ilo.org/dyn/normlex/en/f?p=1000:20010:0::NO:::.",
+    "number": "15"
+
+},
+{
+
+    "text": "Jodi Hilton. Roma of Albania: Life on the Trash Heap, Vocativ, [online] March 10, 2014 [cited January 9, 2015]; http://www.vocativ.com/money/breadline/romaalbanialifetrashheap/.",
+    "number": "16"
+
+},
+{
+
+    "text": "Philip Caulfield. Hundreds sickened harvesting cannabis in outlaw region of southern Albania, NY Daily News, [online] November 4, 2013 [cited January 9, 2015]; http://www.nydailynews.com/news/world/hundreds-sickened-working-cannabis-fields-albania-article-1.1506004.",
+    "number": "17"
+
+},
+{
+
+    "text": "U.S. Embassy- Tirana. reporting, February 17, 2015.",
+    "number": "18"
+
+},
+{
+
+    "text": "Government of Albania. Code of Labor of the Republic of Albania, 7961, enacted 1995. http://www.mpcs.gov.al/dpshb/images/stories/files/kodet/3.3.1._Labour_Code_of_Albania.pdf.",
+    "number": "19"
+
+},
+{
+
+    "text": "Government of Albania. Law for the Protection of the Rights of the Child, No. 10 347, enacted April 11, 2010. http://www.kqk.gov.al/sites/default/files/publikime/ligji_nr.10_347_date_04.11.2010.pdf.",
+    "number": "20"
+
+},
+{
+
+    "text": "ILO-IPEC. Support for Policy Level and Up-Scaling Activities for Combating Child Labour in Central and Eastern Europe (1 January 2010- 31 December 2010). Final Progress Report. Geneva; 2011.",
+    "number": "21"
+
+},
+{
+
+    "text": "Government of Albania. Decree of the Council of Ministers on Defining Hazardous and Hard Works, Nr. 207, enacted May 9, 2002. https://duapune.com/blog/wp-content/uploads/Legjislacioni/Per_percaktimin_e_puneve_te_veshtira_ose_te_rezikshme.pdf.",
+    "number": "22"
+
+},
+{
+
+    "text": "Government of Albania. Decree of the Council of Ministers on the Protection of Minors at Work, Nr. 384, enacted May 20, 1996. https://duapune.com/blog/wp-content/uploads/Legjislacioni/Per_mbrojten_e_te_miturve_ne_pune.pdf.",
+    "number": "23"
+
+},
+{
+
+    "text": "Government of Albania. Law on Occupational Safety and Health at Work, Nr. 10 237, enacted February 18, 2010. http://134.0.34.135/wp-content/uploads/2014/02/Ligj_Nr.10237_-18.02.2010.pdf.",
+    "number": "24"
+
+},
+{
+
+    "text": "Republic of Albania. Criminal Code of the Republic of Albania, 7895, enacted January 27, 1995. http://legislationline.org/documents/section/criminal-codes/country/47.",
+    "number": "25"
+
+},
+{
+
+    "text": "Child Soldiers International. \"Appendix II: Data Summary on Recruitment Ages of National Armies,\" in Louder than Words: An Agenda for Action to End State Use of Child Soldiers. London; September 2012; http://www.child-soldiers.org/global_report_reader.php?id=562.",
+    "number": "26"
+
+},
+{
+
+    "text": "Government of Albania. Law on Pre-University Education System in the Republic of Albania, No. 69, enacted 2012. http://www.crca.al/sites/default/files/publications/Law%20on%20pre-university%20education%20system%20in%20the%20republic%20of%20Albania%20%282012%29.pdf.",
+    "number": "27"
+
+},
+{
+
+    "text": "Government of Albania. Contitution of the Republic of Albania, enacted November 22, 1998. http://www.osce.org/albania/41888?download=true.",
+    "number": "28"
+
+},
+{
+
+    "text": "ILO Committee of Experts. Individual Observation concerning Minimum Age Convention, 1973 (No. 138) Albania (ratification: 1998) Published: 2011 accessed March 15, 2013; http://www.ilo.org/ilolex/english/iloquery.htm.",
+    "number": "29"
+
+},
+{
+
+    "text": "U.S. Embassy- Tirana. reporting, February 14, 2014.",
+    "number": "30"
+
+},
+{
+
+    "text": "Republic of Albania- National Coordinator on Combating Trafficking in Persons. Report on the Implementation of the National Strategy on Combating Trafficking in Persons: January-June 2010. Tirana; September 2010.",
+    "number": "31"
+
+},
+{
+
+    "text": "U.S. Embassy- Tirana. reporting, January 29, 2013.",
+    "number": "32"
+
+},
+{
+
+    "text": "U.S. Embassy- Tirana. reporting, January 20, 2012.",
+    "number": "33"
+
+},
+{
+
+    "text": "U.S. Embassy Tirana official. E-mail communication to USDOL official. June 3, 2014.",
+    "number": "34"
+
+},
+{
+
+    "text": "Bradford, N. Child Protection Safety Net Project; March 2013. http://s3.amazonaws.com/rcpp/assets/attachments/1620_Tdh_CPSN_Capitalization_Report_2013_FINAL_original.pdf.",
+    "number": "35"
+
+},
+{
+
+    "text": "ILO. IPEC Action Against Child Labour 2010: Highlights. Geneva; February 2011.",
+    "number": "36"
+
+},
+{
+
+    "text": "Government of Albania. Highlights of the Strategy and Action Plan 2014-2017 - Submitted by National Coordinator Elona Gjebrea, [online] [cited March 24, 2015]; http://www.punetebrendshme.gov.al/files/news_files/Strategjia_-_Prezantuar_nga_Koordinatori_Kombetar_Elona_Gjebrea.pdf.",
+    "number": "37"
+
+},
+{
+
+    "text": "UNDP. \"Improving the Social Inclusion of Roma/Egyptians,\" in The Role of Civil Society in Promoting Social Inclusion and Equal Treatment June 14-15, 2010;",
+    "number": "38"
+
+},
+{
+
+    "text": "Government of Albania. National Action Plan for the Decade of Roma Inclusion 2010-2015; 2010. http://www.romadecade.org/cms/upload/file/9296_file1_decade-national-action-plan_albania.pdf.",
+    "number": "39"
+
+},
+{
+
+    "text": "UNDP. New Programme to Boost Social Inclusion in Albania. Press Release. New York; November 11, 2013. http://www.al.undp.org/content/albania/en/home/presscenter/pressreleases/2013/11/11/a-new-programme-to-boost-social-inclusion-in-albania/.",
+    "number": "40"
+
+},
+{
+
+    "text": "UNESCO. Government of Albania-United Nations Programme of Cooperation 2012-2016, UNESCO Office in Venice, [online] [cited January 21, 2014]; http://www.unesco.org/new/en/venice/delivering-as-one/.",
+    "number": "41"
+
+},
+{
+
+    "text": "Government of Albania and the United Nations. Government of Albania and United Nations Programme of Cooperation,; 2012. http://www.al.undp.org/content/dam/albania/docs/GoA-UN-Cooperation-Programme.pdf.",
+    "number": "42"
+
+},
+{
+
+    "text": "Government of Albania. Report submitted by the Albanian authorities on measures taken to comply with Committee of the Parties Recommendation on the implementation of the Council of Europe Convention on Action against Trafficking in Human Beings. Strasbourg, Council of Europe; January 29, 2014. http://www.coe.int/t/dghl/monitoring/trafficking/Docs/CommitteeParties/Reply_REC/CP_2014_1_RR_ALB_en.pdf.",
+    "number": "43"
+
+},
+{
+
+    "text": "ILO. Albania Decent Work Country Programme 2012-2015. Project Document. Geneva; December 2012. http://www.ilo.org/budapest/what-we-do/decent-work-country-programmes/WCMS_195198/lang--en/index.htm.",
+    "number": "44"
+
+},
+{
+
+    "text": "Save the Children. Save the Children and Municipality of Tirana Round Table: “Children Street Situation- Our Common Responsibility\", Save the Children, [online] 2011 [cited March 15, 2013]; [source on file].",
+    "number": "45"
+
+},
+
+        {
+            "text": "European Comission. Albania 2012 Progress Report. Progress Report. Brussels; July 5, 2012. http://ec.europa.eu/enlargement/pdf/key_documents/2012/package/al_rapport_2012_en.pdf.",
+            "number": "46"
+        }
+    ]
+
+}

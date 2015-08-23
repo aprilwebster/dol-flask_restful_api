@@ -1,0 +1,1761 @@
+{
+
+    "Name": "Afghanistan",
+    "Region": "Asia & Pacific",
+    "ISO2": "AF",
+    "ISO3": "AFG",
+    "Advancement_Level": "Moderate Advancement",
+    "Description": "In 2014, Afghanistan made a moderate advancement in efforts to eliminate the worst forms of child labor. The Government of Afghanistan announced the adoption of a list of 29 occupations and working conditions prohibited for children. The Government also took steps to combat child trafficking by acceding to the Palermo Protocol on Trafficking in Persons and issuing a directive to improve enforcement of the current law on human trafficking. In addition, the Government passed a law criminalizing the recruitment of children under age 18 into state security institutions and the Inter-Ministerial Steering Committee on Children and Armed Conflict approved a new roadmap to support efforts to end underage recruitment. However, children in Afghanistan are engaged in child labor, including in agriculture, and in the worst forms of child labor, including in the forced production of bricks. Children also continued to be recruited and used for military purposes by non-state groups, and were in limited instances used by some members of state groups to carry out specific tasks. Afghanistan’s labor inspectorate does not have legal authority to enforce child labor laws, and the Government lacks programs to eliminate child labor in certain sectors in which it is prevalent.",
+    "Goods": 
+
+[
+
+{
+
+    "Good_Name": "Bricks",
+    "Good_Sector": "Manufacturing",
+    "Child_Labor": "Yes",
+    "Forced_Labor": "Yes",
+    "Forced_Child_Labor": "Yes"
+
+},
+{
+
+    "Good_Name": "Carpets",
+    "Good_Sector": "Manufacturing",
+    "Child_Labor": "Yes",
+    "Forced_Labor": "No",
+    "Forced_Child_Labor": "No"
+
+},
+{
+
+    "Good_Name": "Coal",
+    "Good_Sector": "Mining",
+    "Child_Labor": "Yes",
+    "Forced_Labor": "No",
+    "Forced_Child_Labor": "No"
+
+},
+
+    {
+        "Good_Name": "Flowers (poppies)",
+        "Good_Sector": "Agriculture",
+        "Child_Labor": "Yes",
+        "Forced_Labor": "No",
+        "Forced_Child_Labor": "No"
+    }
+
+],
+"Country_Statistics": 
+[
+
+{
+
+    "Children_Work_Statistics": 
+
+[
+
+        {
+            "Age_Range": "5-14",
+            "Total_Percentage_of_Working_Children": "7.5",
+            "Total_Working_Population": "673949.0",
+            "Agriculture": "",
+            "Services": "",
+            "Industry": ""
+        }
+    ]
+
+},
+{
+
+    "Education_Statistics_Attendance_Statistics": 
+
+[
+
+        {
+            "Year": "2010-11",
+            "Age_Range": "5-14",
+            "Percentage": "41.8"
+        }
+    ]
+
+},
+{
+
+    "Children_Working_and_Studying_7-14_yrs_old": 
+
+[
+
+        {
+            "Year": "2010-11",
+            "Age_Range": "7-14",
+            "Total": "4.6"
+        }
+    ]
+
+},
+{
+
+    "UNESCO_Primary_Completion_Rate": 
+
+[
+
+            {
+                "Year": "",
+                "Rate": ""
+            }
+        ]
+    }
+
+],
+"Master_Data": 
+[
+
+{
+
+    "C_138_Ratified": "Yes"
+
+},
+{
+
+    "C_182_Ratified": "Yes"
+
+},
+{
+
+    "Convention_on_the_Rights_of_the_Child_Ratified": "Yes"
+
+},
+{
+
+    "CRC_Commercial_Sexual_Exploitation_of_Children_Ratified": "Yes"
+
+},
+{
+
+    "CRC_Armed_Conflict_Ratified": "Yes"
+
+},
+{
+
+    "Palermo_Ratified": "Yes"
+
+},
+{
+
+    "Minimum_Age_for_Work_Estabslished": "Yes"
+
+},
+{
+
+    "Minimum_Age_for_Work": "18.0"
+
+},
+{
+
+    "Minimum_Age_for_Hazardous_Work_Estabslished": "Yes"
+
+},
+{
+
+    "Minimum_Age_for_Hazardous_Work": "18.0"
+
+},
+{
+
+    "Compulsory_Education_Age_Established": "Yes"
+
+},
+{
+
+    "Minimum_Age_for_Compulsory_Education": "15.0"
+
+},
+
+    {
+        "Free_Public_Education_Estabslished": "Yes"
+    }
+
+],
+"Sections": 
+[
+
+{
+
+    "content": 
+
+[
+
+{
+
+    "header": false,
+    "paragraph": "Non-state groups routinely use children for military purposes in Afghanistan.(1, 24-27) In 2014, the UN verified 20 cases of the recruitment of children for use in armed conflict by non-state armed groups.(34) Non-state-armed groups—such as the Haqqani Network, Hezb-i-Islami, Tora Bora Military Front, Jamat Sunat al-Dawa Salafia, and the Taliban—use children as soldiers. The Taliban and the Haqqani Network also use children to carry out suicide attacks, and to manufacture, transport, and plant improvised explosive devices.(1, 8, 24, 27, 35) Children were used by the Afghan National Security Forces in a limited number of cases. During the reporting period, the UN verified the recruitment and use of one child by the Afghan National Police (ANP) and one child by the Afghan Local Police (ALP).(34)"
+
+},
+{
+
+    "header": false,
+    "paragraph": "Children, especially boys, are subject to commercial sexual exploitation throughout the country. The practice of bacha baazi (boy play), in which men keep young boys for social and sexual entertainment, is particularly prevalent.(31, 36) In many cases, these boys are dressed in female clothing, used as dancers at parties and ceremonies, and sexually exploited.(1, 31, 37) There have been reports that some government officials, including members of the Afghan National Police (ANP) and the Afghan Border Police (ABD), use boys working as tea servers or cooks in police camps for the purpose of bacha baazi.(31, 36)"
+
+},
+{
+
+    "header": false,
+    "paragraph": "In Afghanistan, children are most commonly trafficked internally for labor exploitation in carpet weaving, brick making, domestic work, commercial sexual exploitation, begging, and drug smuggling.(32) Children are trafficked transnationally, primarily to Pakistan, Iran, India, and Saudi Arabia, for commercial sexual exploitation and forced labor in begging, domestic work, drug smuggling, and in the construction and agricultural sectors.(16, 32) There are reports that girls from other countries are trafficked to Afghanistan for commercial sexual exploitation.(16, 32)"
+
+},
+
+    {
+        "header": false,
+        "paragraph": "Afghanistan is plagued by insecurity and violence; this has led to grave abuses against children.(38, 39) According to a UN report, by mid-2014 there were 683,000 civilians internally displaced due to armed conflict.(40) Reports note that children who are living in isolated, conflict-affected areas and others who are internally displaced by conflict are at risk of being recruited into non-state-armed groups. Reports also note that children—particularly girls in conflict areas—have limited access to education.(3, 19, 38, 41)The UN General Assembly Security Council verified 167 incidents of violence targeting education facilities and personnel in 2014, including attacks on schools, teachers, staff, as well as students. Due to insecurity, at least 365 schools throughout the country remained closed in 2014.(34) These conditions make it difficult for children to attend school on a regular basis, which may increase their vulnerability to exploitation in child labor."
+    }
+
+],
+"tables": 
+[
+
+{
+
+    "footnotes": 
+
+[
+
+{
+
+    "text": "Evidence of this activity is limited and/or the extent of the problem is unknown.",
+    "symbol": "*"
+
+},
+{
+
+    "text": "Determined by national law or regulation as hazardous and, as such, relevant to Article 3(d) of ILO C. 182.",
+    "symbol": "†"
+
+},
+
+    {
+        "text": "Child labor understood as the worst forms of child labor per se under Article 3(a) – (c) of ILO C 182.",
+        "symbol": "‡"
+    }
+
+],
+"summary": "Based on a review of available information, Table 2 provides an overview of children’s work by sector and activity.",
+"sectors": 
+[
+
+{
+
+    "sector": "Agriculture",
+    "activities": 
+
+[
+
+        {
+            "sources": "1, 6, 7",
+            "name": "Farming, including harvesting poppies"
+        }
+    ]
+
+},
+{
+
+    "sector": "Industry",
+    "activities": 
+
+[
+
+{
+
+    "sources": "1, 8-10",
+    "name": "Home-based carpet weaving†"
+
+},
+{
+
+    "sources": "11",
+    "name": "Construction,* activities unknown"
+
+},
+{
+
+    "sources": "1, 12-14",
+    "name": "Coal and gem* mining†"
+
+},
+
+        {
+            "sources": "2, 8, 15-17",
+            "name": "Brick making"
+        }
+    ]
+
+},
+{
+
+    "sector": "Services",
+    "activities": 
+
+[
+
+{
+
+    "sources": "1, 8",
+    "name": "Domestic work"
+
+},
+{
+
+    "sources": "18, 19",
+    "name": "Gathering firewood and transporting water and goods"
+
+},
+{
+
+    "sources": "1, 8, 20, 21",
+    "name": "Street work, including vending, shoe shining, carrying goods and begging"
+
+},
+
+        {
+            "sources": "8, 19",
+            "name": "Collecting garbage†"
+        }
+    ]
+
+},
+{
+
+    "sector": "Categorical Worst Forms of Child Labor‡",
+    "activities": 
+
+[
+
+{
+
+    "sources": "1, 8, 16, 22, 23",
+    "name": "Used in illicit activities, including in the trafficking of drugs"
+
+},
+{
+
+    "sources": "1, 24-29",
+    "name": "Used in armed conflict as combatants, informants, and suicide bombers, and to manufacture, transport, and plant improvised explosive devices sometimes as a result of forced or compulsory recruitment by non-state groups"
+
+},
+{
+
+    "sources": "16, 19, 30, 31",
+    "name": "Commercial sexual exploitation sometimes as a result of human trafficking"
+
+},
+
+                        {
+                            "sources": "1, 2, 10, 16, 19, 32, 33",
+                            "name": "Forced labor in the production of bricks, poppies,* and carpets,* in begging, in construction, and in domestic work each sometimes as a result of human trafficking"
+                        }
+                    ]
+                }
+            ],
+            "title": "Overview of Children’s Work by Sector and Activity"
+        }
+    ],
+    "number": "I",
+    "title": "Prevalence and Sectoral Distribution of Child Labor"
+
+},
+{
+
+    "content": 
+
+[
+
+{
+
+    "header": false,
+    "paragraph": "During the reporting period, the Government of Afghanistan acceded to the Palermo Protocol on Trafficking in Persons.(36) Additionally, in February 2014, the Ministry of Labor, Social Affairs, Martyrs and Disabled (MoLSAMD) released a list of 29 hazardous jobs and/or working conditions prohibited for children. The list includes mining, begging, agricultural production and processing of narcotics, working for more than 4 hours in the carpet sector, and bonded labor.(43, 44, 49) However, as the labor inspectorate lacks the legal authority to enforce laws relating to child labor, this list of hazardous occupations prohibited to children, as well as the minimum age provisions of the law, cannot be enforced. (28, 42) The ILO and MoLSAMD have developed a revised version of the Labor Law, which would strengthen worker protection and provide penalties for child labor violations. However, at the close of the reporting period, the new law was still under review at the Ministry of Justice (MOJ) and had not yet been approved by the Council of Ministers and Parliament.(50)"
+
+},
+{
+
+    "header": false,
+    "paragraph": "Afghan law does not comprehensively protect children from commercial sexual exploitation.(47) While the 2009 Elimination of Violence Against Women Act protects females from forced prostitution, it does not make mention of males.(48) In addition, the Penal Code does not explicitly forbid the production, distribution, benefiting from, or possession of child pornography.(28, 47) In 2014, the Government issued a directive that calls for enforcement of the provisions set forth in the Law on Human Trafficking to ensure that victims of trafficking in persons receive appropriate social services instead of being prosecuted for any violation of Afghan law. (32, 36) However, despite these efforts, the legal definition of human trafficking in Afghanistan remains unclear. The Dari language does not distinguish between human trafficking and human smuggling, leading to complications in enforcement and data collection efforts.(16) The Ministry of Justice (MOJ) reported that it is currently drafting a new law to address this ambiguity.(51)"
+
+},
+
+    {
+        "header": false,
+        "paragraph": "During the reporting period, the parliament passed a law criminalizing the recruitment of child soldiers into the Government’s security forces and establishing a penalty of 1 to 7 years’ imprisonment for violations of the law.(28, 34)."
+    }
+
+],
+"tables": 
+[
+
+{
+
+    "footnotes": [ ],
+    "summary": "Afghanistan has ratified all key international conventions concerning child labor (Table 3).",
+    "conventions": 
+
+[
+
+{
+
+    "ratified": true,
+    "title": "ILO C. 138, Minimum Age"
+
+},
+{
+
+    "ratified": true,
+    "title": "ILO C. 182, Worst Forms of Child Labor"
+
+},
+{
+
+    "ratified": true,
+    "title": "UN CRC"
+
+},
+{
+
+    "ratified": true,
+    "title": "UN CRC Optional Protocol on Armed Conflict"
+
+},
+{
+
+    "ratified": true,
+    "title": "UN CRC Optional Protocol on the Sale of Children, Child Prostitution and Child Pornography"
+
+},
+
+        {
+            "ratified": true,
+            "title": "Palermo Protocol on Trafficking in Persons"
+        }
+    ],
+    "title": "Ratification of International Conventions on Child Labor"
+
+},
+{
+
+    "footnotes": 
+
+[
+
+    {
+        "sources": "26",
+        "symbol": "*",
+        "text": "No conscription "
+    }
+
+],
+"summary": "The Government has established laws and regulations related to child labor, including its worst forms (Table 4).",
+"standards": 
+[
+
+{
+
+    "related_legislation": 
+
+    {
+        "sources": "42",
+        "legislation": "Article 13 of the Labor Law "
+    },
+    "age": "15",
+    "enacted": "Yes",
+    "title": "Minimum Age for Work"
+
+},
+{
+
+    "related_legislation": 
+
+    {
+        "sources": "42",
+        "legislation": "Articles 13 and 120 of the Labor Law "
+    },
+    "age": "18",
+    "enacted": "Yes",
+    "title": "Minimum Age for Hazardous Work"
+
+},
+{
+
+    "related_legislation": 
+
+    {
+        "sources": "43, 44",
+        "legislation": "List of Prohibited Jobs for Child Laborers "
+    },
+    "enacted": "Yes",
+    "title": "Prohibition of Hazardous Occupations or Activities for Children"
+
+},
+{
+
+    "related_legislation": 
+
+    {
+        "sources": "42, 45",
+        "legislation": "Article 4 of the Labor Law; Article 49 of the Constitution "
+    },
+    "enacted": "Yes",
+    "title": "Prohibition of Forced Labor"
+
+},
+{
+
+    "related_legislation": 
+
+    {
+        "sources": "46, 47",
+        "legislation": "Decree of the President of the Islamic Republic of Afghanistan Concerning the Enforcement of the Law on Combating Abduction and Human Trafficking/Smuggling; Article 516 of the Penal Code "
+    },
+    "enacted": "Yes",
+    "title": "Prohibition of Child Trafficking"
+
+},
+{
+
+    "enacted": "Yes",
+    "title": "Prohibition of Commercial Sexual Exploitation of Children"
+
+},
+{
+
+    "related_legislation": 
+
+    {
+        "sources": "8, 43, 44",
+        "legislation": "List of Prohibited Jobs for Child Laborers; Article 430 of the Penal Code "
+    },
+    "enacted": "Yes",
+    "title": "Prohibition of Using Children in Illicit Activities"
+
+},
+{
+
+    "enacted": "N/A*",
+    "title": "Minimum Age for Compulsory Military Recruitment"
+
+},
+{
+
+    "related_legislation": 
+
+    {
+        "sources": "26",
+        "legislation": "Presidential Decree, 2003 "
+    },
+    "age": "18",
+    "enacted": "Yes",
+    "title": "Minimum Age for Voluntary Military Service"
+
+},
+{
+
+    "related_legislation": 
+
+    {
+        "sources": "28, 45",
+        "legislation": "Article 43 of the Constitution "
+    },
+    "age": "15",
+    "enacted": "Yes",
+    "title": "Compulsory Education Age"
+
+},
+{
+
+    "related_legislation": 
+
+                    {
+                        "sources": "28, 45",
+                        "legislation": "Article 43 of the Constitution "
+                    },
+                    "enacted": "Yes",
+                    "title": "Free Public Education"
+                }
+            ],
+            "title": "Laws and Regulations Related to Child Labor"
+        }
+    ],
+    "number": "II",
+    "title": "Legal Framework for the Worst Forms of Child Labor"
+
+},
+{
+
+    "content": 
+
+[
+
+{
+
+    "header": false,
+    "paragraph": "Law enforcement agencies in Afghanistan took actions to combat child labor, including its worst forms."
+
+},
+{
+
+    "header": true,
+    "paragraph": "Labor Law Enforcement"
+
+},
+{
+
+    "header": false,
+    "paragraph": "In 2014, the Ministry of Labor, Social Affairs, Martyrs, and Disabled (MoLSAMD) employed 26 labor inspectors. Research did not confirm whether monitoring for child labor violations is a regular part of labor inspections.(28) The primary mechanism for responding to child labor cases is the MoLSAMD-affiliated Child Protection Action Network (CPAN), a coalition of government, NGO, community, and religious leaders. There are 19 CPAN technical advisors who conduct child labor inspections across Afghanistan’s 34 provinces.(28) CPAN technical advisors did not receive training on child labor laws and regulations in 2014.(28) Both government and NGO sources consider the number of inspectors to be insufficient to effectively enforce Afghan laws on child labor.(28)"
+
+},
+{
+
+    "header": false,
+    "paragraph": "CPAN technical advisors carried out 350 inspections during the reporting period, which included site visits to various government, non-governmental, and private workplaces. According to MoLSAMD, most inspections are conducted based on a regular work plan, and technical advisors may also follow up on specific complaints.(28)Technical advisors were able to carry out unannounced inspections in 2014; however, neither MoLSAMD nor CPAN have legal authority to enforce child labor laws. During the reporting period , MoLSAMD and CPAN did not officially identify any children engaged in child labor or refer them to appropriate social services.(28) Government officials and civil society representatives agreed that the number and quality of inspections conducted during the reporting period, as well as the number of child labor violations discovered, was not adequate given the size of the child labor problem in Afghanistan.(28)"
+
+},
+{
+
+    "header": true,
+    "paragraph": "Criminal Law Enforcement"
+
+},
+{
+
+    "header": false,
+    "paragraph": "In 2014, the Ministry of Interior (MOI) was responsible for investigating crimes related to child trafficking, child sexual exploitation, and the use of children in illicit activities. MOI maintained an anti-trafficking in persons unit comprised of 13 officers and three non-commissioned officers, with an additional two officers in each of the 34 provinces.(8, 28, 36) The National Directorate of Security (NDS) also employed 37 human trafficking investigators in provincial offices. Both the MOI and NGO officials consider the total number of officers insufficient to address the problem of child trafficking, especially as officers were sometimes assigned to other security-related tasks.(8, 28, 36, 52) Furthermore, officers are not responsible for investigating or enforcing child labor laws in cases that do not involve human trafficking, leaving children who are engaged in the worst forms of child labor but have not been trafficked, without protection.(28)"
+
+},
+{
+
+    "header": false,
+    "paragraph": "During the reporting period, 30 representatives from the Afghan National Police (ANP), the Afghan Border Police (ABP), and the judiciary participated in a two-day workshop facilitated by the IOM that focused on improving understanding of the legal framework for human trafficking and on determining procedures for identifying and protecting victims.(53) The U.S. Bureau of International Narcotics and Law Enforcement Affairs provided 10 additional anti-trafficking training sessions for Afghan law enforcement personnel and representatives from government ministries.(36) However, the MOI and NGOs reported that overall anti-trafficking training efforts were not adequate.(8, 36) Government funding for investigations is also inadequate; as a result, investigators often do not have sufficient facilities, transportation, and other resources necessary to carry out their duties.(8, 28)"
+
+},
+{
+
+    "header": false,
+    "paragraph": "According to the NDS, the Government investigated 42 cases of human trafficking in 2014, of which 26 involved children.(36) Government agencies generally refer victims of human trafficking to NGO-run shelters, a practice that the IOM and NGOs consider relatively effective. Shelters use a standardized form developed by the Ministry of Public Health to help identify victims.(36) However, sources reported that male child victims of human trafficking, especially those who were engaged in commercial sexual exploitation or were used as child soldiers, are sometimes referred to juvenile detention and rehabilitation facilities, where they do not receive appropriate victim support services. The UN noted that some children detained in juvenile rehabilitation centers as a result of their association with armed groups reported being subjected to torture and ill-treatment.(34)"
+
+},
+
+    {
+        "header": false,
+        "paragraph": "The MOI maintains records of prosecutions and convictions related to human trafficking through the computerized Case Management System (CMS), which is currently used in 18 provinces and is continuing to expand across the country.(28) Data from the CMS revealed 27 registered human trafficking cases, eight of which resulted in convictions and prison sentences ranging from one to five years. These records do not specify whether the cases pertain to an alleged trafficker of adults or of children, and there is no disaggregated information available at the national level.(28) Information is also not available on the number of prosecutions and convictions for crimes related to other worst forms of child labor apart from human trafficking."
+    }
+
+],
+"tables": 
+[
+
+{
+
+    "items": 
+
+[
+
+{
+
+    "name": "Ministry of Labor, Social Affairs, Martyrs, and Disabled (MoLSAMD)",
+    "descriptions": 
+
+[
+
+{
+
+    "text": "Enforce laws related to child labor, including hazardous child labor.",
+    "sources": "8"
+
+},
+
+        {
+            "text": "Provide assistance to victims of human trafficking through support center in Kabul.",
+            "sources": "36"
+        }
+    ]
+
+},
+{
+
+    "name": "Child Protection Action Network (CPAN)",
+    "descriptions": 
+
+[
+
+        {
+            "text": "Conduct child labor inspections. Refer children identified as engaged in hazardous child labor to NGO and government shelters that provide protection and social services.",
+            "sources": "8, 28"
+        }
+    ]
+
+},
+{
+
+    "name": "Ministry of Interior (MOI)",
+    "descriptions": 
+
+[
+
+        {
+            "text": "Enforce laws related to child trafficking, the use of children in illicit activities, and child sexual exploitation.",
+            "sources": "8"
+        }
+    ]
+
+},
+{
+
+    "name": "National Directorate of Security (NDS)",
+    "descriptions": 
+
+[
+
+        {
+            "text": "Identify human trafficking victims and refer these cases to the MOI.",
+            "sources": "52"
+        }
+    ]
+
+},
+{
+
+    "name": "Attorney General’s Office (AGO)",
+    "descriptions": 
+
+[
+
+        {
+            "text": "Investigate and prosecute human trafficking and abduction cases.",
+            "sources": "52"
+        }
+    ]
+
+},
+{
+
+    "name": "Ministry of Women’s Affairs (MOWA)",
+    "descriptions": 
+
+[
+
+        {
+            "text": "Register abduction and human trafficking cases and provide support to child labor and trafficking victims.",
+            "sources": "8, 52"
+        }
+    ]
+
+},
+{
+
+    "name": "Afghanistan Independent Human Rights Commission (AIHRC)",
+    "descriptions": 
+
+[
+
+                        {
+                            "text": "Raise awareness on human trafficking through monitoring of cases and advocacy on the issue.",
+                            "sources": "52"
+                        }
+                    ]
+                }
+            ],
+            "footnotes": [ ],
+            "summary": "The Government has established institutional mechanisms for the enforcement of laws and regulations on child labor, including its worst forms (Table 5).",
+            "title": "Agencies Responsible for Child Labor Law Enforcement"
+        }
+    ],
+    "number": "III",
+    "title": "Enforcement of Laws on the Worst Forms of Child Labor"
+
+},
+{
+
+    "content": 
+
+[
+
+    {
+        "header": false,
+        "paragraph": "In 2014, the Afghanistan Independent Human Rights Commission (AIHRC) appointed two employees to provide technical assistance to the High Commission, which met four times during the year.(36)"
+    }
+
+],
+"tables": 
+[
+
+{
+
+    "items": 
+
+[
+
+{
+
+    "name": "High Commission for Combating Crimes of Abduction and Human Trafficking (High Commission)",
+    "descriptions": 
+
+[
+
+        {
+            "text": "Address trafficking in persons in general, including child trafficking. Led by the Minister of Justice (MOJ) and composed of the National Directorate of Security (NDS), the Attorney General’s Office (AGO), the Afghan Independent Bar Association, the Afghanistan Independent Human Rights Commission (AIHRC), the Afghan Women Skills Development Center, and nine government ministries, including the Ministry of Labor, Social Affairs, Martyrs, and Disabled (MoLSAMD), the Ministry of Public Health (MoPH), and the Ministry of Women’s Affairs (MOWA).",
+            "sources": "8, 36, 52"
+        }
+    ]
+
+},
+{
+
+    "name": "Inter-Ministerial Steering Committee on Children and Armed Conflict",
+    "descriptions": 
+
+[
+
+{
+
+    "text": "Coordinate efforts to eliminate the recruitment and use of child soldiers.",
+    "sources": "54"
+
+},
+
+                        {
+                            "text": "Led by the Ministry of Foreign Affairs and monitored by the UN Task Force on Children and Armed Conflict, which is composed of UN and NGO members.",
+                            "sources": "54"
+                        }
+                    ]
+                }
+            ],
+            "footnotes": [ ],
+            "summary": "Although the Government of Afghanistan has established coordinating mechanisms to address certain forms of child labor, research found no evidence of an overall mechanism to combat child labor, including all its worst forms (Table 6).",
+            "title": "Mechanisms to Coordinate Government Efforts on Child Labor"
+        }
+    ],
+    "number": "IV",
+    "title": "Coordination of Government Efforts on the Worst Forms of Child Labor"
+
+},
+{
+
+    "content": 
+
+[
+
+    {
+        "header": false,
+        "paragraph": "During the reporting period, the Afghanistan Independent Human Rights Commission (AIHRC) published a legally mandated National Inquiry to analyze the causes and negative consequences of the practice of bacha baazi in Afghanistan.(31) The Inquiry included 71 focus group sessions and 17 public hearings in 17 provinces, and it involved approximately 2,200 people.(64) As a result, the AIHRC made recommendations to the Government for improving the legal framework for the prohibition of the commercial sexual exploitation of boys.(8)"
+    }
+
+],
+"tables": 
+[
+
+{
+
+    "items": 
+
+[
+
+{
+
+    "name": "National Strategy for Children at Risk",
+    "descriptions": 
+
+[
+
+        {
+            "text": "Creates a framework to support at-risk children and their families with new and existing social services; develops a strategic plan to build the capacity of child-based organizations into broader family- and community-based institutions; and guides donors in contributing toward comprehensive child protection system. Focuses specifically on working children, trafficked children, and child soldiers and other children affected by conflict.",
+            "sources": "55"
+        }
+    ]
+
+},
+{
+
+    "name": "National Strategy for Street Working Children (2011–2014)",
+    "descriptions": 
+
+[
+
+        {
+            "text": "Guides and informs the Ministry of Labor, Social Affairs, Martyrs, and Disabled (MoLSAMD) and other relevant ministries, international organizations, and NGOs to provide effective and sustainable interventions like family- and community-based support systems for street children and their families in order to protect, prevent, and reduce the number of children working on the streets.",
+            "sources": "56"
+        }
+    ]
+
+},
+{
+
+    "name": "Action Plan for the Prevention of Underage Recruitment",
+    "descriptions": 
+
+[
+
+{
+
+    "text": "Aims to prevent the recruitment of minors into the Afghan National Security Forces (ANSF), which includes the Afghan National Army (ANA), the Afghan National Police (ANP), the National Directory of Security (NDS), and pro-government militia groups.",
+    "sources": "57-59"
+
+},
+{
+
+    "text": "Seeks to ensure the release of children under age 18 from armed forces and to facilitate their reintegration into families and communities.",
+    "sources": "60"
+
+},
+
+        {
+            "text": "In November 2014, government stakeholders participated in a workshop to identify key criteria for developing standardized age-verification procedures across ANSF.",
+            "sources": "61"
+        }
+    ]
+
+},
+{
+
+    "name": "Road Map Towards Full Compliance of the Action Plan for the Prevention of Underage Recruitment†",
+    "descriptions": 
+
+[
+
+        {
+            "text": "Supports and expedites implementation of the Action Plan for the Prevention of Underage Recruitment. Identifies 15 priority areas, including criminalization of the recruitment and use of children by national security forces; development of a policy to protect children arrested and detained on national security-related charges; improved age verification procedures; establishment of a national monitoring system; and endorsement of a national birth registration strategy. On July 23, the Inter-Ministerial Steering Committee on Children and Armed Conflict formally endorsed the Road Map, developed through collaboration with the UN and relevant government agencies.",
+            "sources": "28, 61"
+        }
+    ]
+
+},
+{
+
+    "name": "National Action Plan on Trafficking in Persons",
+    "descriptions": 
+
+[
+
+{
+
+    "text": "Creates a timeline for specific actions to be taken by members of the High Commission to address trafficking.",
+    "sources": "16"
+
+},
+
+        {
+            "text": "Includes objectives to improve the anti-trafficking legal framework, increase awareness about the trafficking of male children, and improve victim rehabilitation programs for boys.",
+            "sources": "62"
+        }
+    ]
+
+},
+{
+
+    "name": "National Education Strategic Plan (2010–2014)*",
+    "descriptions": 
+
+[
+
+            {
+                "text": "Establishes five overarching education goals, including improving access to quality education.",
+                "sources": "63"
+            }
+        ]
+    }
+
+],
+"footnotes": 
+[
+
+{
+
+    "text": "Child labor elimination and prevention strategies do not appear to have been integrated into this policy.",
+    "symbol": "*"
+
+},
+
+                {
+                    "text": "Policy was approved during the reporting period.",
+                    "symbol": "†"
+                }
+            ],
+            "summary": "The Government of Afghanistan has established policies related to child labor, including its worst forms (Table 7).",
+            "title": "Policies Related to Child Labor"
+        }
+    ],
+    "number": "V",
+    "title": "Government Policies on the Worst Forms of Child Labor"
+
+},
+{
+
+    "content": 
+
+[
+
+{
+
+    "header": false,
+    "paragraph": "Although the Government has implemented programs that seek to prevent the recruitment and use of child soldiers in the Afghan National Security Forces, research found no evidence it has carried out programs to remove or rehabilitate children involved in armed conflict. There is also no evidence of programs designed specifically to prevent and eliminate child labor in agriculture and forced child labor in the production of bricks."
+
+},
+
+    {
+        "header": false,
+        "paragraph": "Due to lack of funding, in 2014 MoLSAMD closed three of four shelters for victims of human trafficking that were previously operated by IOM.(36) Research found that shelters and support services for male child trafficking victims over the age of ten were particularly limited.(29)"
+    }
+
+],
+"tables": 
+[
+
+{
+
+    "items": 
+
+[
+
+{
+
+    "name": "Project to Prevent Child Labor in Home-Based Carpet Production in Afghanistan",
+    "descriptions": 
+
+[
+
+{
+
+    "text": "USDOL-funded, 4-year, $2 million project implemented by GoodWeave. Aims to build market preferences for child labor-free Afghan carpets; contribute to evidence-based knowledge of child labor in the Afghanistan carpet sector; and increase public awareness and engagement on the issue of child labor in the Afghan carpet sector.",
+    "sources": "65"
+
+},
+
+        {
+            "text": "In 2014, the first phase of research on the prevalence of child labor in the carpet sector was completed.",
+            "sources": "10"
+        }
+    ]
+
+},
+{
+
+    "name": "Age Verification of New ANSF Recruits‡",
+    "descriptions": 
+
+[
+
+{
+
+    "text": "Ministry of Foreign Affairs, Ministry of Defense, MOI, NDS, and UNICEF program that operates Child Protection Units within the Afghan National Security Forces (ANSF) recruitment centers. Aims to ensure that new recruits meet the minimum age requirement of 18 years by carefully screening applicants.",
+    "sources": "24, 66"
+
+},
+{
+
+    "text": "Process includes an ID check and a requirement that at least two community elders vouch that a recruit is 18-years-old and is eligible to join the ANSF, in an effort to address the use of the fraudulent IDs sometimes presented by minors.",
+    "sources": "67"
+
+},
+
+        {
+            "text": "In 2014, Child Protection Units in four provinces rejected 156 children under age 18 who attempted to enlist in the Afghan National Police (ANP).",
+            "sources": "61"
+        }
+    ]
+
+},
+{
+
+    "name": "Trafficking Shelters‡",
+    "descriptions": 
+
+[
+
+{
+
+    "text": "MoLSAMD-funded and NGO-operated shelter for human trafficking victims. Provides food, clothing, medical care, counseling, psychosocial support, and vocational and academic training. MoLSAMD registers victims and provides reintegration assistance.",
+    "sources": "36, 52"
+
+},
+
+        {
+            "text": "An additional shelter is available for boy victims of human trafficking in Kabul funded by the U.S. Bureau of International Narcotics and Law Enforcement and operated by Hagar International.",
+            "sources": "51"
+        }
+    ]
+
+},
+{
+
+    "name": "Counter-Trafficking Program",
+    "descriptions": 
+
+[
+
+        {
+            "text": "USDOS Office to Monitor and Combat Trafficking in Persons-funded project implemented by Hagar International in collaboration with IOM. Provides counter-trafficking training for law enforcement officials in four provinces and aims to facilitate information-sharing and collaboration on counter-trafficking activities between government and civil society actors.",
+            "sources": "36, 68"
+        }
+    ]
+
+},
+{
+
+    "name": "Safety Nets and Pensions Support Project (2009–2016)*",
+    "descriptions": 
+
+[
+
+        {
+            "text": "$7.5 million World Bank-funded, 7-year project implemented by MoLSAMD that provides cash support on a case-by-case basis to poor families with children under the age of 5 years in three provinces and targets highly impoverished families, including children who are at risk of child labor.",
+            "sources": "8, 69"
+        }
+    ]
+
+},
+{
+
+    "name": "Protracted Relief and Recovery Operation*†",
+    "descriptions": 
+
+[
+
+            {
+                "text": "$496 million WFP-funded, 3-year project that enhances food security and nutrition for 3.7 million beneficiaries in 184 food insecure districts. Through this project, people affected by conflict, disaster or economic stress are assisted with food, vouchers, or cash; children receive targeted supplementary feeding; schools are supported to increase enrollment and attendance; and adults are provided with vocational training.",
+                "sources": "70"
+            }
+        ]
+    }
+
+],
+"footnotes": 
+[
+
+{
+
+    "text": "The impact of this program on child labor does not appear to have been studied.",
+    "symbol": "*"
+
+},
+{
+
+    "text": "Program was launched during the reporting period.",
+    "symbol": "†"
+
+},
+
+                {
+                    "text": "Program is funded by the Government of Afghanistan.",
+                    "symbol": "‡"
+                }
+            ],
+            "summary": "In 2014, the Government of Afghanistan funded and participated in programs that include the goal of eliminating or preventing child labor, including its worst forms. The Government has other programs that may have an impact on child labor, including its worst forms (Table 8).",
+            "title": "Social Programs to Address Child Labor"
+        }
+    ],
+    "number": "VI",
+    "title": "Social Programs to Address Child Labor"
+
+},
+{
+
+    "content": [ ],
+    "tables": 
+
+[
+
+{
+
+    "footnotes": [ ],
+    "summary": "Based on the reporting above, suggested actions are identified that would advance the elimination of child labor, including its worst forms, in Afghanistan (Table 9).",
+    "areas": 
+
+[
+
+{
+
+    "actions": 
+
+[
+
+{
+
+    "action": "Ensure that law protects all children, including boys, from commercial sexual exploitation.",
+    "years": "2013 – 2014"
+
+},
+{
+
+    "action": "Ensure that law clearly prohibits the production, distribution, benefiting from, and possession of child pornography.",
+    "years": "2014"
+
+},
+
+        {
+            "action": "Clearly define human trafficking in accordance with international standards.",
+            "years": "2011 – 2014"
+        }
+    ],
+    "area": "Legal Framework"
+
+},
+{
+
+    "actions": 
+
+[
+
+{
+
+    "action": "Provide training for labor inspectors and government officials on the enforcement of child labor laws and regulations.",
+    "years": "2011 – 2014"
+
+},
+{
+
+    "action": "Increase the number of labor inspectors responsible for enforcing laws related to child labor in order to provide adequate coverage of the workforce.",
+    "years": "2011 – 2014"
+
+},
+{
+
+    "action": "Ensure that the labor inspectorate has legal authority to enforce child labor laws.",
+    "years": "2014"
+
+},
+{
+
+    "action": "Ensure that MoLSAMD and CPAN conduct an adequate number of child labor inspections.",
+    "years": "2014"
+
+},
+{
+
+    "action": "Establish a referral mechanism to ensure that child laborers identified through labor inspections receive support services that address their needs.",
+    "years": "2013 – 2014"
+
+},
+{
+
+    "action": "Ensure that there are investigators to enforce criminal laws regarding the worst forms of child labor unrelated to human trafficking.",
+    "years": "2014"
+
+},
+{
+
+    "action": "Provide a budget for the Ministry of Interior (MOI) to enforce laws concerning the worst forms of child labor.",
+    "years": "2012 – 2014"
+
+},
+{
+
+    "action": "Ensure that male child victims of human trafficking and other worst forms of child labor are correctly identified as victims and referred to appropriate social services, and that children held in juvenile detention or rehabilitation facilities are not subject to mistreatment or torture.",
+    "years": "2014"
+
+},
+
+        {
+            "action": "Make data publicly available on the number of prosecutions and convictions for all crimes related to the worst forms of child labor.",
+            "years": "2011 – 2014"
+        }
+    ],
+    "area": "Enforcement"
+
+},
+{
+
+    "actions": 
+
+[
+
+        {
+            "action": "Establish coordinating mechanisms to combat child labor, including all its worst forms.",
+            "years": "2013 – 2014"
+        }
+    ],
+    "area": "Coordination"
+
+},
+{
+
+    "actions": 
+
+[
+
+        {
+            "action": "Integrate child labor elimination and prevention strategies into existing policies.",
+            "years": "2009 – 2014"
+        }
+    ],
+    "area": "Government Policies"
+
+},
+{
+
+    "actions": 
+
+[
+
+{
+
+    "action": "Institute programs to increase access to education and to improve security in schools, especially for girls.",
+    "years": "2014"
+
+},
+{
+
+    "action": "Assess the impact that existing programs may have on child labor, including its worst forms.",
+    "years": "2013 – 2014"
+
+},
+{
+
+    "action": "Implement rehabilitation and reintegration programs for children affected by armed conflict.",
+    "years": "2009 – 2014"
+
+},
+{
+
+    "action": "Create programs to address child labor in agriculture and forced child labor in bricks.",
+    "years": "2009 – 2014"
+
+},
+
+                            {
+                                "action": "Provide financial support to reopen shelters for victims of human trafficking and ensure that there are sufficient shelter services available for older male child trafficking victims.",
+                                "years": "2010 – 2014"
+                            }
+                        ],
+                        "area": "Social Programs"
+                    }
+                ],
+                "title": "Suggested Government Actions to Eliminate Child Labor, Including its Worst Forms"
+            }
+        ],
+        "number": "VII",
+        "title": "Suggested Government Actions to Eliminate the Worst Forms of Child Labor"
+    }
+
+],
+"Sources": 
+[
+
+{
+
+    "text": "U.S. Department of State. \"Afghanistan,\" in Country Reports on Human Rights Practices- 2013. Washington, DC; February 27, 2014; http://www.state.gov/documents/organization/220598.pdf.",
+    "number": "1"
+
+},
+{
+
+    "text": "UNICEF. Strategic Programme Framework for ILO-UNICEF Support to National Efforts to Progressively Eliminate Child Labour and Bonded Labour in Brick Kilns in Afghanistan; December 15, 2012.",
+    "number": "2"
+
+},
+{
+
+    "text": "United Nations Assistance Mission in Afghanistan. Afghanistan Annual Report- 2013. Kabul; 2014. http://unama.unmissions.org/Portals/UNAMA/human%20rights/Feb_8_2014_PoC-report_2013-Full-report-ENG.pdf.",
+    "number": "3"
+
+},
+{
+
+    "text": "UNESCO Institute for Statistics. Gross intake ratio to the last grade of primary. Total. [accessed January 16, 2015]; http://www.uis.unesco.org/Pages/default.aspx?SPSLanguage=EN. Data provided is the gross intake ratio to the last grade of primary school. This measure is a proxy measure for primary completion. For more information, please see the “Children's Work and Education Statistics: Sources and Definitions” section of this report.",
+    "number": "4"
+
+},
+{
+
+    "text": "UCW. Analysis of Child Economic Activity and School Attendance Statistics from National Household or Child Labor Surveys. Analysis received January 16, 2015. Reliable statistical data on the worst forms of child labor are especially difficult to collect given the often hidden or illegal nature of the worst forms. As a result, statistics on children’s work in general are reported in this chart, which may or may not include the worst forms of child labor. For more information on sources used, the definition of working children and other indicators used in this report, please see the “Children's Work and Education Statistics: Sources and Definitions” section of this report.",
+    "number": "5"
+
+},
+{
+
+    "text": "Butt, K. \"Illicit Drug Production: Balochistan Madrassa Students Harvest Poppy on Holidays.\" The Express Tribune, Karachi, August 5, 2011. http://tribune.com.pk/story/224821/illicit-drug-production-balochistan-madrassa-students-harvest-poppy-on-holidays/?print=true.",
+    "number": "6"
+
+},
+{
+
+    "text": "Gannon, K. \"After Record Opium Year, Afghans Plant New Crop.\" bigstory.ap.org [online] 2013 [cited April 10, 2014]; http://bigstory.ap.org/article/un-says-afghan-opium-production-hits-record-high.",
+    "number": "7"
+
+},
+{
+
+    "text": "U.S. Embassy- Kabul. reporting, February 12, 2014",
+    "number": "8"
+
+},
+{
+
+    "text": "Hall, S. Ties that Bind: Child Labor in the Afghan Carpet Sector. Kabul, GoodWeave International; June 2014.",
+    "number": "9"
+
+},
+{
+
+    "text": "GoodWeave International. Project to Prevent Child Labor in Home-Based Carpet Production in Afghanistan. Technical Progress Report. Kabul; October 2014.",
+    "number": "10"
+
+},
+{
+
+    "text": "U.S. Embassy- Kabul. reporting, January 26, 2011.",
+    "number": "11"
+
+},
+{
+
+    "text": "Nissenbaum, D. \"Teenager Films Afghan Child Labor- School Documentary Project Seeks to Illuminate Open Secret: Young Boys at Work in Remote Coal Mines.\" Wall Street Journal- Eastern Edition, New York, July 14, 2012; World News. http://online.wsj.com/article/SB10001424052702303640804577491511393159548.html.",
+    "number": "12"
+
+},
+{
+
+    "text": "Nichols, M. \"Afghanistan Vows to \"Set Standards\" on Child Labor in Mines.\" ca.reuters.com [online] August 12, 2011 [cited 2014]; http://ca.reuters.com/articlePrint?articleId=CATRE77B12V20110812.",
+    "number": "13"
+
+},
+{
+
+    "text": "U.S. Embassy- Kabul. reporting, March 10, 2010.",
+    "number": "14"
+
+},
+{
+
+    "text": "U.S. Embassy- Kabul. reporting, March 19, 2012.",
+    "number": "15"
+
+},
+{
+
+    "text": "U.S. Embassy- Kabul. reporting, February 26, 2013.",
+    "number": "16"
+
+},
+{
+
+    "text": "UNICEF official. E-mail communication to USDOL official. April 5, 2011.",
+    "number": "17"
+
+},
+{
+
+    "text": "U.S. Embassy- Kabul official. E-mail communication to USDOL official. June 14, 2013.",
+    "number": "18"
+
+},
+{
+
+    "text": "UNICEF. Child Notice Afghanistan. New York; January 2013.",
+    "number": "19"
+
+},
+{
+
+    "text": "Adeli, B. Afghanistan: Child Street Workers Vulnerable to Abuse, Institute for War and Peace Reporting, [online] October 15, 2011 [cited March 1, 2013]; http://www.rawa.org/temp/runews/2011/10/15/afghanistan-child-street-workers-vulnerable-to-abuse.html.",
+    "number": "20"
+
+},
+{
+
+    "text": "U.S. Embassy- Kabul. reporting, January 31, 2013.",
+    "number": "21"
+
+},
+{
+
+    "text": "U.S. Embassy- Kabul. reporting, March 15, 2010.",
+    "number": "22"
+
+},
+{
+
+    "text": "Iskander, A, M Shohjamlov. Tajik Law Opens Window for Young Afghan Drug Smugglers, Radio Free Europe Radio Liberty, [online] April 4, 2010 [cited March 1, 2013]; http://www.rferl.org/content/Tajik_Law_Opens_Window_For_Young_Afghan_Drug_Smugglers/2002156.html.",
+    "number": "23"
+
+},
+{
+
+    "text": "UN Security Council. Children and Armed Conflict: Report of the Secretary-General. New York; May 15, 2013. http://www.un.org/ga/search/view_doc.asp?symbol=A/67/845.",
+    "number": "24"
+
+},
+{
+
+    "text": "Integrated Regional Information Networks. \"Afghanistan: Fears Over Child Recruitment, Abuse by Pro-Government Militias.\" IRINnews.org [online] January 20, 2011 [cited March 1, 2013]; http://www.irinnews.org/Report.aspx?ReportID=91676.",
+    "number": "25"
+
+},
+{
+
+    "text": "Child Soldiers International. \"Appendix II: Data Summary on Recruitment Ages of National Armies,\" in Louder Than Words, An Agenda for Action to End State Use of Child Soldiers. London; 2012; http://www.child-soldiers.org/user_uploads/pdf/appendix2datasummarytableonrecruitmentagesofnationalarmies9687452.pdf.",
+    "number": "26"
+
+},
+{
+
+    "text": "United Nations Assistance Mission in Afghanistan. Annual Report 2014- Afghanistan Kabul; 2015. http://unama.unmissions.org/Portals/UNAMA/human%20rights/2015/2014-Annual-Report-on-Protection-of-Civilians-Final.pdf.",
+    "number": "27"
+
+},
+{
+
+    "text": "U.S. Embassy- Kabul. reporting, February 8, 2015",
+    "number": "28"
+
+},
+{
+
+    "text": "Thorson, J. Forgotten No More: Male Child Trafficking in Afghanistan. Kabul; October 2013. http://hagarinternational.org/australia/files/Forgotten-No-More.pdf.",
+    "number": "29"
+
+},
+{
+
+    "text": "Human Rights Watch. \"I Had to Run Away\" The Imprisonment of Women and Girls for \"Moral Crimes\" in Afghanistan. New York; March 2012. http://www.hrw.org/sites/default/files/reports/afghanistan0312webwcover_0.pdf.",
+    "number": "30"
+
+},
+{
+
+    "text": "Afghanistan Independent Human Rights Commission. Causes and Consequences of Bachabazi in Afghanistan. Kabul; August 20, 2014. http://www.aihrc.org.af/home/research_report/3324.",
+    "number": "31"
+
+},
+{
+
+    "text": "U.S. Department of State. \"Afghanistan,\" in Trafficking in Persons Report- 2014. Washington, DC; June 20, 2014; http://www.state.gov/documents/organization/226845.pdf.",
+    "number": "32"
+
+},
+{
+
+    "text": "ILO. Breaking the Mould: Occupational Safety Hazards Faced by Children Working in Brick Kilns in Afghanistan; December 2013.",
+    "number": "33"
+
+},
+{
+
+    "text": "United National General Assembly Security Council. Report of the Secretary-General on Children and Armed Conflict (S/2015/409); June 5, 2015. http://www.un.org/ga/search/view_doc.asp?symbol=S/AC.51/2014/3&referer=/english/&Lang=E.",
+    "number": "34"
+
+},
+{
+
+    "text": "Farmer, B. \"Brainwashed into Believing They Will Survive: the Boy Bombers of Afghanistan.\" The Daily Telegraph, London, January 14, 2012; World News. http://www.telegraph.co.uk/news/worldnews/asia/afghanistan/9014282/Afghan-boy-suicide-bombers-tell-how-they-are-brainwashed-into-believing-they-will-survive.html.",
+    "number": "35"
+
+},
+{
+
+    "text": "U.S. Embassy- Kabul. reporting, February 16, 2015",
+    "number": "36"
+
+},
+{
+
+    "text": "UN Secretary-General. Children and Armed Conflict Report: Report of the Secretary-General; May 15, 2014. http://www.un.org/ga/search/view_doc.asp?symbol=a/68/878.",
+    "number": "37"
+
+},
+{
+
+    "text": "O'Hagan, A. \"From Classrooms to Suicide Bombs: Children's Lives in Afghanistan.\" The Guardian, London August 2, 2013.",
+    "number": "38"
+
+},
+{
+
+    "text": "Integrated Regional Information Networks. \"Worsening Violence Against Children in Afghanistan.\" IRINnews.org [online] June 21, 2013 [cited November 23, 2013]; www.irinnews.org/printreport.aspx?reportid=98262.",
+    "number": "39"
+
+},
+{
+
+    "text": "UNHCR. 2015 UNHCR Country Operations Profile- Afghanistan. Geneva; 2015. http://www.unhcr.org/pages/49e486eb6.html.",
+    "number": "40"
+
+},
+{
+
+    "text": "United Nations Assistance Mission in Afghanistan. Nearly 60,000 Afghans Internally Displaced in the First Half of 2013, UN, [online] [cited February 19, 2014]; http://unama.unmissions.org/Default.aspx?tabid=12254&ctl=Details&mid=15756&ItemID=37156&language=en-US.",
+    "number": "41"
+
+},
+{
+
+    "text": "Government of Afghanistan,. Labour Law, enacted February 4, 2007. http://www.ilo.org/dyn/natlex/natlex_browse.details?p_lang=en&p_country=AFG&p_classification=01.02&p_origin=COUNTRY&p_sortby=SORTBY_COUNTRY.",
+    "number": "42"
+
+},
+{
+
+    "text": "Ariana News. \"Sectors Identified Where Child Labor Strictly Prohibited.\" ariananews.af [online] February 10, 2014 [cited February 10, 2014]; http://ariananews.af/latest-news/sectors-identified-where-child-labor-strictly-prohibited/.",
+    "number": "43"
+
+},
+{
+
+    "text": "Afghanistan Chamber of Commerce and Industries. \"MOLSAMD Announces List of Prohibited Jobs for Child Labors.\" acci.org.af [online] February 9, 2014 [cited 2014]; http://www.acci.org.af/component/content/article/38-news/467-molsamd-announces-list-of-prohibited-jobs-for-child-labors.html.",
+    "number": "44"
+
+},
+{
+
+    "text": "Government of Afghanistan. Constitution, Articles 43, 49, enacted 2004.",
+    "number": "45"
+
+},
+{
+
+    "text": "Government of Afghanistan. Decree of the President of Islamic Republic of Afghanistan Concerning the Enforcement of the Law on Combating Abduction and Human Trafficking, 52, enacted 2008.",
+    "number": "46"
+
+},
+{
+
+    "text": "Government of Afghanistan,. Penal Code, enacted 1976.",
+    "number": "47"
+
+},
+{
+
+    "text": "Government of Afghanistan,. Law on Elimination of Violence Against Women, enacted 2009.",
+    "number": "48"
+
+},
+{
+
+    "text": "ILO-IPEC official. E-mail communication to USDOL official. February 20, 2014.",
+    "number": "49"
+
+},
+{
+
+    "text": "U.S. Embassy- Kabul official. E-mail communication to USDOL official. June 2, 2014.",
+    "number": "50"
+
+},
+{
+
+    "text": "U.S. Embassy- Kabul official. E-mail communication to USDOL official. April 8, 2015.",
+    "number": "51"
+
+},
+{
+
+    "text": "Government of Afghanistan, Ministry of Justice. First-Third Quarter Consolidated Report of High Commission to Combat Crimes of Abduction and Human Trafficking for 1392 (2013). Kabul; February 10, 2014.",
+    "number": "52"
+
+},
+{
+
+    "text": "IOM. Afghan Officials, Community Leaders Trained to Combat Human Trafficking. Press Release. Geneva; November 14, 2014. http://www.iom.int/cms/en/sites/iom/home/news-and-views/press-briefing-notes/pbn-2014b/pbn-listing/afghan-officials-community-leade.html.",
+    "number": "53"
+
+},
+{
+
+    "text": "United Nations Assistance Mission in Afghanistan. Afghanistan: Government, UN sign plan to stop under-age recruits in security forces, UN, [online] January 30, 2011 [cited February 3, 2015]; http://reliefweb.int/report/afghanistan/afghanistan-government-un-sign-plan-stop-under-age-recruits-security-forces.",
+    "number": "54"
+
+},
+{
+
+    "text": "Ministry of Labour & Social Affairs Martyrs and Disabled. National Strategy for Children ‘at-risk’; 2004 http://lib.ohchr.org/HRBodies/UPR/Documents/Session5/AF/AFG_Afghanistan_National_Strategy_for_Children_at-risk.pdf.",
+    "number": "55"
+
+},
+{
+
+    "text": "Ministry of Labour & Social Affairs Martyrs and Disabled. A National Strategy for Street Working Children. http://www.streetchildrenresources.org/wp-content/uploads/2013/11/national-strategy-for-street-working-children-afghanistan.pdf.",
+    "number": "56"
+
+},
+{
+
+    "text": "Integrated Regional Information Networks. \"Afghanistan: UN Urges More Action on Child Rights.\" IRINnews.org [online] February 9, 2011 [cited March 1, 2013]; http://www.rawa.org/temp/runews/2011/02/09/afghanistan-un-urges-more-action-on-child-rights.html.",
+    "number": "57"
+
+},
+{
+
+    "text": "UN Security Council. Children and Armed Conflict. New York; April 23, 2011. http://unispal.un.org/UNISPAL.NSF/0/70BF34991DA5D6B08525788E004BA583.",
+    "number": "58"
+
+},
+{
+
+    "text": "UN Human Rights Council. Report of the United Nations High Commissioner for Human Rights on the Situation of Human Rights in Afghanistan and on the Achievements of Technical Assistance in the Field of Human Rights in 2013. New York; January 10, 2014. http://reliefweb.int/sites/reliefweb.int/files/resources/A-HRC-25-41%20UN.pdf.",
+    "number": "59"
+
+},
+{
+
+    "text": "Government of Afghanistan. Action Plan regarding Children associated with National Security Forces in Afghanistan.",
+    "number": "60"
+
+},
+{
+
+    "text": "UN Global Horizontal Notes. reporting, July-September 2014.",
+    "number": "61"
+
+},
+{
+
+    "text": "Government of Afghanistan. Anti-Trafficking Action Plan for Afghanistan; 2014-2015.",
+    "number": "62"
+
+},
+{
+
+    "text": "Government of Afghanistan, Ministry of Education. The National Education Strategic Plan, Government of Afghanistan, [online] [cited January 14, 2014]; http://moe.gov.af/en/page/2010.",
+    "number": "63"
+
+},
+{
+
+    "text": "Asia Pacific Forum. Afghanistan: National Inquiry Calls for Stronger Protections against Child Abuse. Sydney; August 21, 2014. http://www.asiapacificforum.net/news/afghanistan-national-inquiry-calls-for-stronger-protections-against-child-abuse.",
+    "number": "64"
+
+},
+{
+
+    "text": "GoodWeave International. Project to Prevent Child Labor in Home-Based Carpet Production in Afghanistan. Washington, DC; August 1, 2013.",
+    "number": "65"
+
+},
+{
+
+    "text": "UNICEF. UNICEF Afghanistan Situation Report. New York; July 31, 2013. http://www.unicef.org/appeals/files/UNICEF_Afghanistan_HAC_mid-year_report-_July_2013.pdf.",
+    "number": "66"
+
+},
+{
+
+    "text": "U.S. Department of State official. E-mail communication to USDOL official. June 10, 2014.",
+    "number": "67"
+
+},
+{
+
+    "text": "Hagar International. Hagar Afghanistan and IOM Deliver Counter Trafficking Training, Hagar International, [online] December 16, 2014 [cited May 11, 2015]; http://hagarinternational.org/usa/hagar-afghanistan-and-iom-deliver-counter-trafficking-training/.",
+    "number": "68"
+
+},
+{
+
+    "text": "World Bank. Afghanistan Pension Administration and Safety Net Project, World Bank, [online] [cited February 19, 2014]; http://www.worldbank.org/projects/P113421/afghanistan-pension-administration-safety-net-project?lang=en.",
+    "number": "69"
+
+},
+
+        {
+            "text": "United Nations Assistance Mission in Afghanistan. UN World Food Programme Scheme to Support 3.7 million Food-Insecure Afghans through 2016, UN, [online ] 2013 [cited February 19, 2014]; http://unama.unmissions.org/Default.aspx?tabid=12254&ctl=Details&mid=15756&ItemID=37651&language=en-US.",
+            "number": "70"
+        }
+    ]
+
+}
