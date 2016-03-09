@@ -21,3 +21,4 @@ Utility functions are located in <installation path>/child_labour_api/util.py
 Required python modules are located in <installation path>/child_labour_api/requirements.txt
 
 
+force update
